@@ -1,0 +1,28 @@
+Warning: NLS unused message: QTEST in: com.kms.katalon.constants.globalMessages
+Warning: NLS missing message: QTEST_NAME in: com.kms.katalon.constants.globalMessages
+2026-05-18 18:20:28.025 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/New Test Suite
+2026-05-18 18:20:28.240 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Arnora Mardiansyah
+2026-05-18 18:20:28.241 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Functional-Suitability-GIPM
+2026-05-18 18:20:28.244 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Lenovo - LAPTOP-5JN3FB4L
+2026-05-18 18:20:28.244 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2026-05-18 18:20:28.245 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.1
+2026-05-18 18:20:28.246 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 10.2.4.0
+2026-05-18 18:20:28.890 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-05-18 18:20:28.890 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/New Test Case
+2026-05-18 18:20:29.322 DEBUG testcase.New Test Case                   - 1: openBrowser("")
+2026-05-18 18:20:29.659 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-05-18 18:20:29.731 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+May 18, 2026 6:20:31 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 148
+May 18, 2026 6:20:31 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for 148.0.7778.168. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.28.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2026-05-18 18:20:32.886 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 80e7fef98d00e65a0f097542d953d1ba
+2026-05-18 18:20:32.888 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.168
+2026-05-18 18:20:32.889 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-05-18 18:20:32.891 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.28.1
+2026-05-18 18:20:32.912 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-05-18 18:20:33.009 DEBUG testcase.New Test Case                   - 2: closeBrowser()
+2026-05-18 18:20:33.293 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/New Test Case
+2026-05-18 18:20:33.330 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2026-05-18 18:20:33.331 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/New Test Suite
+2026-05-18 18:20:33.331 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

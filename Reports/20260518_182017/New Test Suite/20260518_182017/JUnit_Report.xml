@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="5.081" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="5.081" skipped="0" timestamp="2026-05-18T11:20:28.212Z" hostname="Lenovo - LAPTOP-5JN3FB4L" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\UNILA\\SKRIPSI\\Pengujian\\Functional Suitability\\Functional-Suitability-GIPM\\Reports\\20260518_182017\\New Test Suite\\20260518_182017"/>
+         <property name="logFiles" value="D:\\UNILA\\SKRIPSI\\Pengujian\\Functional Suitability\\Functional-Suitability-GIPM\\Reports\\20260518_182017\\New Test Suite\\20260518_182017\\console0.log, D:\\UNILA\\SKRIPSI\\Pengujian\\Functional Suitability\\Functional-Suitability-GIPM\\Reports\\20260518_182017\\New Test Suite\\20260518_182017\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lenovo - LAPTOP-5JN3FB4L"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.2.4.0"/>
+         <property name="browser" value="Chrome 148.0.7778.168"/>
+         <property name="userFullName" value="Arnora Mardiansyah"/>
+         <property name="hostAddress" value="192.168.1.1"/>
+         <property name="sessionId" value="80e7fef98d00e65a0f097542d953d1ba"/>
+         <property name="projectName" value="Functional-Suitability-GIPM"/>
+         <property name="seleniumVersion" value="4.28.1"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="4.403" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[18-05-2026T18:20:28 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+18-05-2026T18:20:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2026T18:20:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-05-2026T18:20:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2026T18:20:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2026T18:20:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2026T18:20:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2026T18:20:28 - [TEST_SUITE][PASSED] - New Test Suite: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

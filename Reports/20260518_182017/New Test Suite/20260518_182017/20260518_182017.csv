@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 148.0.7778.168,,,18-05-2026 18:20:28,18-05-2026 18:20:33,5.119s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 148.0.7778.168,,,18-05-2026 18:20:28,18-05-2026 18:20:33,4.403s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.168,,,18-05-2026 18:20:29,18-05-2026 18:20:33,3.688s,PASSED
+closeBrowser(),Chrome 148.0.7778.168,,,18-05-2026 18:20:33,18-05-2026 18:20:33,0.281s,PASSED
