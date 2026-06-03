@@ -1,0 +1,151 @@
+2026-06-03 22:05:52.338 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback default configuration initialized from: C:\Users\Lenovo\.katalon\packages\KS-11.1.3\configuration\org.eclipse.osgi\150\0\.cp\resources\logback\logback-execution.xml
+2026-06-03 22:05:52.341 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback custom configuration initialized from: D:\UNILA\SKRIPSI\Pengujian\Functional Suitability\Functional-Suitability-GIPM\Include\config\log.properties
+2026-06-03 22:05:53.143 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/TS-02_ManajemenDataProyek
+2026-06-03 22:05:53.219 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Arnora Mardiansyah
+2026-06-03 22:05:53.220 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Functional-Suitability-GIPM
+2026-06-03 22:05:53.221 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Lenovo - LAPTOP-5JN3FB4L
+2026-06-03 22:05:53.221 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2026-06-03 22:05:53.223 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.1
+2026-06-03 22:05:53.224 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 11.1.3.0
+2026-06-03 22:05:53.354 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-06-03 22:05:53.354 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-02_ManajemenDataProyek/TC-02-01_Tambah project baru
+2026-06-03 22:05:53.702 DEBUG testcase.TC-02-01_Tambah project baru    - 1: openBrowser("")
+2026-06-03 22:05:54.030 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-06-03 22:05:54.100 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-06-03 22:05:56.346 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = aa8bd91c43eea5d304f829d0424a84cb
+2026-06-03 22:05:56.347 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.217
+2026-06-03 22:05:56.348 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-06-03 22:05:56.349 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-06-03 22:05:56.358 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-06-03 22:05:56.412 DEBUG testcase.TC-02-01_Tambah project baru    - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-06-03 22:05:56.874 DEBUG testcase.TC-02-01_Tambah project baru    - 3: setText(findTestObject("Page_Log in - GiPM/input_Email"), "Arnor@gmail.com")
+2026-06-03 22:05:58.259 DEBUG testcase.TC-02-01_Tambah project baru    - 4: setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "yjcyc3Nku24=")
+2026-06-03 22:05:58.729 DEBUG testcase.TC-02-01_Tambah project baru    - 5: click(findTestObject("Page_Log in - GiPM/button_Log in"))
+2026-06-03 22:05:59.102 DEBUG testcase.TC-02-01_Tambah project baru    - 6: click(findTestObject("Page_Dashboard - GiPM/a_Projects"))
+2026-06-03 22:06:00.085 DEBUG testcase.TC-02-01_Tambah project baru    - 7: click(findTestObject("Page_- GiPM/label_Arnora"))
+2026-06-03 22:06:00.747 DEBUG testcase.TC-02-01_Tambah project baru    - 8: click(findTestObject("Page_- GiPM/label_ArnorDev"))
+2026-06-03 22:06:01.316 DEBUG testcase.TC-02-01_Tambah project baru    - 9: click(findTestObject("Page_- GiPM/label_ArnoraUser"))
+2026-06-03 22:06:01.948 DEBUG testcase.TC-02-01_Tambah project baru    - 10: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2"), "Sistem Manajemen Proyek Test Berbasis Web")
+2026-06-03 22:06:03.069 DEBUG testcase.TC-02-01_Tambah project baru    - 11: click(findTestObject("Page_- GiPM/input_Login - 21"))
+2026-06-03 22:06:03.749 DEBUG testcase.TC-02-01_Tambah project baru    - 12: click(findTestObject("Page_- GiPM/input_Logout - 3"))
+2026-06-03 22:06:04.264 DEBUG testcase.TC-02-01_Tambah project baru    - 13: click(findTestObject("Page_- GiPM/input_Edit profil - 6"))
+2026-06-03 22:06:04.880 DEBUG testcase.TC-02-01_Tambah project baru    - 14: click(findTestObject("Page_- GiPM/span_ganti password - 7"))
+2026-06-03 22:06:05.541 DEBUG testcase.TC-02-01_Tambah project baru    - 15: click(findTestObject("Page_- GiPM/span_CRUD manajemen user  role - 30"))
+2026-06-03 22:06:06.171 DEBUG testcase.TC-02-01_Tambah project baru    - 16: click(findTestObject("Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13"))
+2026-06-03 22:06:06.787 DEBUG testcase.TC-02-01_Tambah project baru    - 17: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_1"), "5")
+2026-06-03 22:06:07.739 DEBUG testcase.TC-02-01_Tambah project baru    - 18: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_2"), "Pengembangan sistem manajemen proyek berbasis web untuk monitoring")
+2026-06-03 22:06:08.958 DEBUG testcase.TC-02-01_Tambah project baru    - 19: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_3"), "120")
+2026-06-03 22:06:09.923 DEBUG testcase.TC-02-01_Tambah project baru    - 20: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_4"))
+2026-06-03 22:06:10.572 DEBUG testcase.TC-02-01_Tambah project baru    - 21: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_5"), "8")
+2026-06-03 22:06:11.340 DEBUG testcase.TC-02-01_Tambah project baru    - 22: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_6"), "50000")
+2026-06-03 22:06:12.290 DEBUG testcase.TC-02-01_Tambah project baru    - 23: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_7"), "500")
+2026-06-03 22:06:13.231 DEBUG testcase.TC-02-01_Tambah project baru    - 24: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:06:13.834 DEBUG testcase.TC-02-01_Tambah project baru    - 25: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_9"))
+2026-06-03 22:06:14.201 DEBUG testcase.TC-02-01_Tambah project baru    - 26: click(findTestObject("Page_- GiPM/div_Biaya Awal Proyek"))
+2026-06-03 22:06:14.595 DEBUG testcase.TC-02-01_Tambah project baru    - 27: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:06:14.979 DEBUG testcase.TC-02-01_Tambah project baru    - 28: doubleClick(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:06:15.423 DEBUG testcase.TC-02-01_Tambah project baru    - 29: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:06:15.830 DEBUG testcase.TC-02-01_Tambah project baru    - 30: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_9"), "15000000")
+2026-06-03 22:06:16.717 DEBUG testcase.TC-02-01_Tambah project baru    - 31: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_10"))
+2026-06-03 22:06:17.375 DEBUG testcase.TC-02-01_Tambah project baru    - 32: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_11"))
+2026-06-03 22:06:17.819 DEBUG testcase.TC-02-01_Tambah project baru    - 33: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_10"), "300")
+2026-06-03 22:06:18.692 DEBUG testcase.TC-02-01_Tambah project baru    - 34: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_12"), "5000000")
+2026-06-03 22:06:19.728 DEBUG testcase.TC-02-01_Tambah project baru    - 35: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_13"), "120")
+2026-06-03 22:06:20.654 DEBUG testcase.TC-02-01_Tambah project baru    - 36: click(findTestObject("Page_- GiPM/button_Simpan Project"))
+2026-06-03 22:06:21.254 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-02_ManajemenDataProyek/TC-02-01_Tambah project baru
+2026-06-03 22:06:21.260 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-06-03 22:06:21.260 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-02_ManajemenDataProyek/TC-02-02_Nama project kosong
+2026-06-03 22:06:21.339 DEBUG testcase.TC-02-02_Nama project kosong    - 1: openBrowser("")
+2026-06-03 22:06:21.342 WARN  c.k.k.core.webui.driver.DriverFactory    - A browser is already opened. Closing browser and opening a new one
+2026-06-03 22:06:21.636 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-06-03 22:06:21.639 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-06-03 22:06:22.777 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = f06e184a8aebc762f8b6ab74847f263e
+2026-06-03 22:06:22.778 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.217
+2026-06-03 22:06:22.779 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-06-03 22:06:22.779 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-06-03 22:06:22.781 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-06-03 22:06:22.808 DEBUG testcase.TC-02-02_Nama project kosong    - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-06-03 22:06:23.188 DEBUG testcase.TC-02-02_Nama project kosong    - 3: setText(findTestObject("Page_Log in - GiPM/input_Email"), "Arnor@gmail.com")
+2026-06-03 22:06:24.369 DEBUG testcase.TC-02-02_Nama project kosong    - 4: setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "yjcyc3Nku24=")
+2026-06-03 22:06:24.804 DEBUG testcase.TC-02-02_Nama project kosong    - 5: click(findTestObject("Page_Log in - GiPM/button_Log in"))
+2026-06-03 22:06:25.261 DEBUG testcase.TC-02-02_Nama project kosong    - 6: click(findTestObject("Page_Dashboard - GiPM/a_Projects"))
+2026-06-03 22:06:26.240 DEBUG testcase.TC-02-02_Nama project kosong    - 7: click(findTestObject("Page_- GiPM/label_Arnora"))
+2026-06-03 22:06:26.828 DEBUG testcase.TC-02-02_Nama project kosong    - 8: click(findTestObject("Page_- GiPM/label_ArnorDev"))
+2026-06-03 22:06:27.455 DEBUG testcase.TC-02-02_Nama project kosong    - 9: click(findTestObject("Page_- GiPM/label_ArnoraUser"))
+2026-06-03 22:06:28.052 DEBUG testcase.TC-02-02_Nama project kosong    - 10: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2"), "")
+2026-06-03 22:06:28.949 DEBUG testcase.TC-02-02_Nama project kosong    - 11: click(findTestObject("Page_- GiPM/input_Login - 21"))
+2026-06-03 22:06:29.300 DEBUG testcase.TC-02-02_Nama project kosong    - 12: click(findTestObject("Page_- GiPM/input_Logout - 3"))
+2026-06-03 22:06:29.905 DEBUG testcase.TC-02-02_Nama project kosong    - 13: click(findTestObject("Page_- GiPM/input_Edit profil - 6"))
+2026-06-03 22:06:30.553 DEBUG testcase.TC-02-02_Nama project kosong    - 14: click(findTestObject("Page_- GiPM/span_ganti password - 7"))
+2026-06-03 22:06:31.191 DEBUG testcase.TC-02-02_Nama project kosong    - 15: click(findTestObject("Page_- GiPM/span_CRUD manajemen user  role - 30"))
+2026-06-03 22:06:31.775 DEBUG testcase.TC-02-02_Nama project kosong    - 16: click(findTestObject("Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13"))
+2026-06-03 22:06:32.412 DEBUG testcase.TC-02-02_Nama project kosong    - 17: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_1"), "5")
+2026-06-03 22:06:33.395 DEBUG testcase.TC-02-02_Nama project kosong    - 18: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_2"), "Pengembangan sistem manajemen proyek berbasis App")
+2026-06-03 22:06:34.477 DEBUG testcase.TC-02-02_Nama project kosong    - 19: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_3"), "120")
+2026-06-03 22:06:35.498 DEBUG testcase.TC-02-02_Nama project kosong    - 20: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_4"))
+2026-06-03 22:06:36.092 DEBUG testcase.TC-02-02_Nama project kosong    - 21: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_5"), "8")
+2026-06-03 22:06:36.793 DEBUG testcase.TC-02-02_Nama project kosong    - 22: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_6"), "50000")
+2026-06-03 22:06:37.792 DEBUG testcase.TC-02-02_Nama project kosong    - 23: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_7"), "500")
+2026-06-03 22:06:38.785 DEBUG testcase.TC-02-02_Nama project kosong    - 24: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:06:39.447 DEBUG testcase.TC-02-02_Nama project kosong    - 25: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_9"))
+2026-06-03 22:06:39.844 DEBUG testcase.TC-02-02_Nama project kosong    - 26: click(findTestObject("Page_- GiPM/div_Biaya Awal Proyek"))
+2026-06-03 22:06:40.198 DEBUG testcase.TC-02-02_Nama project kosong    - 27: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:06:40.615 DEBUG testcase.TC-02-02_Nama project kosong    - 28: doubleClick(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:06:41.102 DEBUG testcase.TC-02-02_Nama project kosong    - 29: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:06:41.526 DEBUG testcase.TC-02-02_Nama project kosong    - 30: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_9"), "15000000")
+2026-06-03 22:06:42.308 DEBUG testcase.TC-02-02_Nama project kosong    - 31: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_10"))
+2026-06-03 22:06:42.910 DEBUG testcase.TC-02-02_Nama project kosong    - 32: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_11"))
+2026-06-03 22:06:43.295 DEBUG testcase.TC-02-02_Nama project kosong    - 33: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_10"), "300")
+2026-06-03 22:06:43.960 DEBUG testcase.TC-02-02_Nama project kosong    - 34: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_12"), "5000000")
+2026-06-03 22:06:44.943 DEBUG testcase.TC-02-02_Nama project kosong    - 35: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_13"), "120")
+2026-06-03 22:06:45.890 DEBUG testcase.TC-02-02_Nama project kosong    - 36: click(findTestObject("Page_- GiPM/button_Simpan Project"))
+2026-06-03 22:06:46.493 DEBUG testcase.TC-02-02_Nama project kosong    - 37: verifyTextNotPresent("Pengembangan sistem manajemen proyek berbasis App", false)
+2026-06-03 22:06:47.153 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-02_ManajemenDataProyek/TC-02-02_Nama project kosong
+2026-06-03 22:06:47.158 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-06-03 22:06:47.158 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-02_ManajemenDataProyek/TC-02-03_User Kosong
+2026-06-03 22:06:47.251 DEBUG testcase.TC-02-03_User Kosong            - 1: openBrowser("")
+2026-06-03 22:06:47.253 WARN  c.k.k.core.webui.driver.DriverFactory    - A browser is already opened. Closing browser and opening a new one
+2026-06-03 22:06:47.544 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-06-03 22:06:47.545 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-06-03 22:06:48.682 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 317695b15515782e42146d0ac7f44fdc
+2026-06-03 22:06:48.683 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.217
+2026-06-03 22:06:48.684 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-06-03 22:06:48.685 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-06-03 22:06:48.685 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-06-03 22:06:48.704 DEBUG testcase.TC-02-03_User Kosong            - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-06-03 22:06:49.063 DEBUG testcase.TC-02-03_User Kosong            - 3: setText(findTestObject("Page_Log in - GiPM/input_Email"), "Arnor@gmail.com")
+2026-06-03 22:06:50.333 DEBUG testcase.TC-02-03_User Kosong            - 4: setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "yjcyc3Nku24=")
+2026-06-03 22:06:50.702 DEBUG testcase.TC-02-03_User Kosong            - 5: click(findTestObject("Page_Log in - GiPM/button_Log in"))
+2026-06-03 22:06:51.103 DEBUG testcase.TC-02-03_User Kosong            - 6: click(findTestObject("Page_Dashboard - GiPM/a_Projects"))
+2026-06-03 22:06:52.102 DEBUG testcase.TC-02-03_User Kosong            - 7: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2"), "Sistem Manajemen Proyek Test Berbasis Web")
+2026-06-03 22:06:53.302 DEBUG testcase.TC-02-03_User Kosong            - 8: click(findTestObject("Page_- GiPM/input_Login - 21"))
+2026-06-03 22:06:53.917 DEBUG testcase.TC-02-03_User Kosong            - 9: click(findTestObject("Page_- GiPM/input_Logout - 3"))
+2026-06-03 22:06:54.536 DEBUG testcase.TC-02-03_User Kosong            - 10: click(findTestObject("Page_- GiPM/input_Edit profil - 6"))
+2026-06-03 22:06:55.154 DEBUG testcase.TC-02-03_User Kosong            - 11: click(findTestObject("Page_- GiPM/span_ganti password - 7"))
+2026-06-03 22:06:55.779 DEBUG testcase.TC-02-03_User Kosong            - 12: click(findTestObject("Page_- GiPM/span_CRUD manajemen user  role - 30"))
+2026-06-03 22:06:56.384 DEBUG testcase.TC-02-03_User Kosong            - 13: click(findTestObject("Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13"))
+2026-06-03 22:06:57.016 DEBUG testcase.TC-02-03_User Kosong            - 14: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_1"), "5")
+2026-06-03 22:06:58.052 DEBUG testcase.TC-02-03_User Kosong            - 15: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_2"), "Pengembangan sistem manajemen proyek berbasis App")
+2026-06-03 22:06:59.178 DEBUG testcase.TC-02-03_User Kosong            - 16: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_3"), "120")
+2026-06-03 22:07:00.175 DEBUG testcase.TC-02-03_User Kosong            - 17: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_4"))
+2026-06-03 22:07:00.765 DEBUG testcase.TC-02-03_User Kosong            - 18: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_5"), "8")
+2026-06-03 22:07:01.489 DEBUG testcase.TC-02-03_User Kosong            - 19: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_6"), "50000")
+2026-06-03 22:07:02.430 DEBUG testcase.TC-02-03_User Kosong            - 20: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_7"), "500")
+2026-06-03 22:07:03.405 DEBUG testcase.TC-02-03_User Kosong            - 21: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:07:03.978 DEBUG testcase.TC-02-03_User Kosong            - 22: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_9"))
+2026-06-03 22:07:04.383 DEBUG testcase.TC-02-03_User Kosong            - 23: click(findTestObject("Page_- GiPM/div_Biaya Awal Proyek"))
+2026-06-03 22:07:04.786 DEBUG testcase.TC-02-03_User Kosong            - 24: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:07:05.144 DEBUG testcase.TC-02-03_User Kosong            - 25: doubleClick(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:07:05.596 DEBUG testcase.TC-02-03_User Kosong            - 26: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_8"))
+2026-06-03 22:07:06.003 DEBUG testcase.TC-02-03_User Kosong            - 27: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_9"), "15000000")
+2026-06-03 22:07:06.805 DEBUG testcase.TC-02-03_User Kosong            - 28: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_10"))
+2026-06-03 22:07:07.462 DEBUG testcase.TC-02-03_User Kosong            - 29: click(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_11"))
+2026-06-03 22:07:07.891 DEBUG testcase.TC-02-03_User Kosong            - 30: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_10"), "300")
+2026-06-03 22:07:08.665 DEBUG testcase.TC-02-03_User Kosong            - 31: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_12"), "5000000")
+2026-06-03 22:07:09.686 DEBUG testcase.TC-02-03_User Kosong            - 32: setText(findTestObject("Page_- GiPM/input_w-full border rounded px-3 py-2_13"), "120")
+2026-06-03 22:07:10.615 DEBUG testcase.TC-02-03_User Kosong            - 33: click(findTestObject("Page_- GiPM/button_Simpan Project"))
+2026-06-03 22:07:12.681 DEBUG testcase.TC-02-03_User Kosong            - 34: verifyTextNotPresent("Pengembangan sistem manajemen proyek berbasis App", false)
+2026-06-03 22:07:13.431 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-02_ManajemenDataProyek/TC-02-03_User Kosong
+2026-06-03 22:07:13.660 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2026-06-03 22:07:13.660 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/TS-02_ManajemenDataProyek
+2026-06-03 22:07:13.660 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

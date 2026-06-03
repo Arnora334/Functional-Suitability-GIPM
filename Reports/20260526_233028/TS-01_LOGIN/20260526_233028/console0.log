@@ -1,0 +1,105 @@
+2026-05-26 23:30:43.010 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback default configuration initialized from: C:\Users\Lenovo\.katalon\packages\KS-11.1.3\configuration\org.eclipse.osgi\150\0\.cp\resources\logback\logback-execution.xml
+2026-05-26 23:30:43.013 INFO  c.k.k.c.l.logback.LogbackConfigurator    - Logback custom configuration initialized from: D:\UNILA\SKRIPSI\Pengujian\Functional Suitability\Functional-Suitability-GIPM\Include\config\log.properties
+2026-05-26 23:30:43.891 INFO  c.k.katalon.core.main.TestSuiteExecutor  - START Test Suites/TS-01_LOGIN
+2026-05-26 23:30:43.979 INFO  c.k.katalon.core.main.TestSuiteExecutor  - userFullName = Arnora Mardiansyah
+2026-05-26 23:30:43.980 INFO  c.k.katalon.core.main.TestSuiteExecutor  - projectName = Functional-Suitability-GIPM
+2026-05-26 23:30:43.981 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostName = Lenovo - LAPTOP-5JN3FB4L
+2026-05-26 23:30:43.981 INFO  c.k.katalon.core.main.TestSuiteExecutor  - os = Windows 11 64bit
+2026-05-26 23:30:43.982 INFO  c.k.katalon.core.main.TestSuiteExecutor  - hostAddress = 192.168.1.1
+2026-05-26 23:30:43.983 INFO  c.k.katalon.core.main.TestSuiteExecutor  - katalonVersion = 11.1.3.0
+2026-05-26 23:30:44.133 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-05-26 23:30:44.134 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-01_LOGIN/TC-01-01_Login_Valid_PM
+2026-05-26 23:30:44.449 DEBUG testcase.TC-01-01_Login_Valid_PM         - 1: openBrowser("")
+2026-05-26 23:30:44.755 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-05-26 23:30:44.819 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-05-26 23:30:47.227 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = dc9b2b6a19098c34d69355698b9d6651
+2026-05-26 23:30:47.228 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.179
+2026-05-26 23:30:47.229 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-05-26 23:30:47.230 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-05-26 23:30:47.240 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-05-26 23:30:47.291 DEBUG testcase.TC-01-01_Login_Valid_PM         - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-05-26 23:30:47.791 DEBUG testcase.TC-01-01_Login_Valid_PM         - 3: setText(findTestObject("Page_Log in - GiPM/input_Email"), "Arnor@gmail.com")
+2026-05-26 23:30:49.936 DEBUG testcase.TC-01-01_Login_Valid_PM         - 4: setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "yjcyc3Nku24=")
+2026-05-26 23:30:50.375 DEBUG testcase.TC-01-01_Login_Valid_PM         - 5: click(findTestObject("Page_Log in - GiPM/button_Log in"))
+2026-05-26 23:30:50.781 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-01_LOGIN/TC-01-01_Login_Valid_PM
+2026-05-26 23:30:50.788 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-05-26 23:30:50.788 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-01_LOGIN/TC-01-02_Login_Valid_Dev
+2026-05-26 23:30:50.869 DEBUG testcase.TC-01-02_Login_Valid_Dev        - 1: openBrowser("")
+2026-05-26 23:30:50.872 WARN  c.k.k.core.webui.driver.DriverFactory    - A browser is already opened. Closing browser and opening a new one
+2026-05-26 23:30:51.083 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-05-26 23:30:51.089 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-05-26 23:30:52.194 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 42510782da1c60782ee69ed2c1e34fdf
+2026-05-26 23:30:52.195 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.179
+2026-05-26 23:30:52.196 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-05-26 23:30:52.199 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-05-26 23:30:52.200 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-05-26 23:30:52.230 DEBUG testcase.TC-01-02_Login_Valid_Dev        - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-05-26 23:30:52.703 DEBUG testcase.TC-01-02_Login_Valid_Dev        - 3: setText(findTestObject("Page_Log in - GiPM/input_Email"), "ArnorDev@gmail.com")
+2026-05-26 23:30:54.196 DEBUG testcase.TC-01-02_Login_Valid_Dev        - 4: setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "XJjHRq1O5tG3K9uskNhPfg==")
+2026-05-26 23:30:54.737 DEBUG testcase.TC-01-02_Login_Valid_Dev        - 5: click(findTestObject("Page_Log in - GiPM/button_Log in"))
+2026-05-26 23:30:55.139 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-01_LOGIN/TC-01-02_Login_Valid_Dev
+2026-05-26 23:30:55.150 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-05-26 23:30:55.150 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-01_LOGIN/TC-01-03_Login_Valid_User
+2026-05-26 23:30:55.225 DEBUG testcase.TC-01-03_Login_Valid_User       - 1: openBrowser("")
+2026-05-26 23:30:55.228 WARN  c.k.k.core.webui.driver.DriverFactory    - A browser is already opened. Closing browser and opening a new one
+2026-05-26 23:30:55.432 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-05-26 23:30:55.440 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-05-26 23:30:56.603 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = e082d9602728faec4573d2db99cc9ddf
+2026-05-26 23:30:56.604 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.179
+2026-05-26 23:30:56.606 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-05-26 23:30:56.608 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-05-26 23:30:56.609 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-05-26 23:30:56.630 DEBUG testcase.TC-01-03_Login_Valid_User       - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-05-26 23:30:57.159 DEBUG testcase.TC-01-03_Login_Valid_User       - 3: setText(findTestObject("Page_Log in - GiPM/input_Email"), "ArnorUser@gmail.com")
+2026-05-26 23:30:58.520 DEBUG testcase.TC-01-03_Login_Valid_User       - 4: setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "+ChJcD+7ltPNNGh7IboufA==")
+2026-05-26 23:30:59.062 DEBUG testcase.TC-01-03_Login_Valid_User       - 5: click(findTestObject("Page_Log in - GiPM/button_Log in"))
+2026-05-26 23:30:59.532 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-01_LOGIN/TC-01-03_Login_Valid_User
+2026-05-26 23:30:59.537 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-05-26 23:30:59.537 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-01_LOGIN/TC-01-04_Input_password_salah
+2026-05-26 23:30:59.599 DEBUG testcase.TC-01-04_Input_password_salah   - 1: openBrowser("")
+2026-05-26 23:30:59.601 WARN  c.k.k.core.webui.driver.DriverFactory    - A browser is already opened. Closing browser and opening a new one
+2026-05-26 23:30:59.809 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-05-26 23:30:59.817 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-05-26 23:31:00.950 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = bd2d1443d1d306d973f64f3dabcdcefb
+2026-05-26 23:31:00.951 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.179
+2026-05-26 23:31:00.952 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-05-26 23:31:00.952 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-05-26 23:31:00.955 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-05-26 23:31:00.976 DEBUG testcase.TC-01-04_Input_password_salah   - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-05-26 23:31:01.487 DEBUG testcase.TC-01-04_Input_password_salah   - 3: setText(findTestObject("Page_Log in - GiPM/input_Email_1"), "Arnor@gmail.com")
+2026-05-26 23:31:02.813 DEBUG testcase.TC-01-04_Input_password_salah   - 4: setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password_1"), "ejPJ2gYDxEY=")
+2026-05-26 23:31:03.324 DEBUG testcase.TC-01-04_Input_password_salah   - 5: click(findTestObject("Page_Log in - GiPM/button_Log in_1"))
+2026-05-26 23:31:03.788 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-01_LOGIN/TC-01-04_Input_password_salah
+2026-05-26 23:31:03.796 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-05-26 23:31:03.796 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-01_LOGIN/TC-01-05_Input_email_salah
+2026-05-26 23:31:03.875 DEBUG testcase.TC-01-05_Input_email_salah      - 1: openBrowser("")
+2026-05-26 23:31:03.878 WARN  c.k.k.core.webui.driver.DriverFactory    - A browser is already opened. Closing browser and opening a new one
+2026-05-26 23:31:04.086 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-05-26 23:31:04.088 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-05-26 23:31:05.266 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 3b441f9468eba23c977d751f8008fa25
+2026-05-26 23:31:05.269 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.179
+2026-05-26 23:31:05.270 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-05-26 23:31:05.271 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-05-26 23:31:05.274 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-05-26 23:31:05.298 DEBUG testcase.TC-01-05_Input_email_salah      - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-05-26 23:31:05.906 DEBUG testcase.TC-01-05_Input_email_salah      - 3: setText(findTestObject("Page_Log in - GiPM/input_Email_1"), "Arn@gmail.com")
+2026-05-26 23:31:07.360 DEBUG testcase.TC-01-05_Input_email_salah      - 4: setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password_1"), "yjcyc3Nku24=")
+2026-05-26 23:31:07.922 DEBUG testcase.TC-01-05_Input_email_salah      - 5: click(findTestObject("Page_Log in - GiPM/button_Log in_1"))
+2026-05-26 23:31:08.289 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-01_LOGIN/TC-01-05_Input_email_salah
+2026-05-26 23:31:08.296 INFO  c.k.katalon.core.main.TestCaseExecutor   - --------------------
+2026-05-26 23:31:08.296 INFO  c.k.katalon.core.main.TestCaseExecutor   - START Test Cases/TS-01_LOGIN/TC-01-06_Input_Kosong
+2026-05-26 23:31:08.384 DEBUG testcase.TC-01-06_Input_Kosong           - 1: openBrowser("")
+2026-05-26 23:31:08.386 WARN  c.k.k.core.webui.driver.DriverFactory    - A browser is already opened. Closing browser and opening a new one
+2026-05-26 23:31:08.621 INFO  c.k.k.core.webui.driver.DriverFactory    - Starting 'Chrome' driver
+2026-05-26 23:31:08.623 INFO  c.k.k.core.webui.driver.DriverFactory    - Action delay is set to 0 milliseconds
+2026-05-26 23:31:09.773 INFO  c.k.k.core.webui.driver.DriverFactory    - sessionId = 2f3f2d63fac60343d29181a0a3188dac
+2026-05-26 23:31:09.773 INFO  c.k.k.core.webui.driver.DriverFactory    - browser = Chrome 148.0.7778.179
+2026-05-26 23:31:09.775 INFO  c.k.k.core.webui.driver.DriverFactory    - platform = Windows 11
+2026-05-26 23:31:09.776 INFO  c.k.k.core.webui.driver.DriverFactory    - seleniumVersion = 4.39.0
+2026-05-26 23:31:09.777 INFO  c.k.k.core.webui.driver.DriverFactory    - proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList="", isApplyToDesiredCapabilities=true }
+2026-05-26 23:31:09.791 DEBUG testcase.TC-01-06_Input_Kosong           - 2: navigateToUrl("https://gipm.destroidmous.my.id/login")
+2026-05-26 23:31:10.192 DEBUG testcase.TC-01-06_Input_Kosong           - 3: click(findTestObject("Page_Log in - GiPM/button_Log in"))
+2026-05-26 23:31:11.250 INFO  c.k.katalon.core.main.TestCaseExecutor   - END Test Cases/TS-01_LOGIN/TC-01-06_Input_Kosong
+2026-05-26 23:31:11.485 INFO  c.k.katalon.core.main.TestSuiteExecutor  - --------------------
+2026-05-26 23:31:11.485 INFO  c.k.katalon.core.main.TestSuiteExecutor  - END Test Suites/TS-01_LOGIN
+2026-05-26 23:31:11.485 INFO  c.k.katalon.core.main.TestSuiteExecutor  - ====================

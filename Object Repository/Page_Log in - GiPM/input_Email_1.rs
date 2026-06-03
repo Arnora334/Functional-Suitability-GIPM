@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Email_1</name>
+   <tag></tag>
+   <elementGuidId>a6915cf0-a48c-4c74-b696-3d0f71ff859f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#email</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Email&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>610f5efd-9732-4061-b698-1926c5277e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>ae184b3d-2be6-4760-9886-dc381772de5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>269c6414-b66e-4f40-85b6-dfd8b6bc37d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>dc7930f0-e82d-4925-aed3-b27a6e378d37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>bb0980dd-cb61-4f91-8456-20438c40145d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+                w-full rounded-md border-gray-300 shadow-sm 
+                focus:border-[#db2727] focus:ring-[#db2727]
+                py-3 px-3 
+                py-3 px-3 mt-1 block w-full
+            </value>
+      <webElementGuid>4c61cccf-be6f-4ace-8ef5-ed1ef8acf18d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5b9ce64e1b01ab27ccfccd2252edf06f</value>
+      <webElementGuid>2f54a978-3602-4d79-ad19-76e02e67af81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'email']</value>
+      <webElementGuid>3b09ebda-49bc-493f-bd98-a603365ce38d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'email']</value>
+      <webElementGuid>4a16ec35-cea4-4ec7-b9a2-176da8933e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'email' and @name = 'email' and @type = 'email']</value>
+      <webElementGuid>82ba8c2f-595f-4bd2-a951-7856d8860b7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

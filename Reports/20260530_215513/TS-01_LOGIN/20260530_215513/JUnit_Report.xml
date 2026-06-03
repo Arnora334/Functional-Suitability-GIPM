@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-01_LOGIN" time="37.617" tests="6" passed="6" failures="0" errors="0" incompleted="0" skipped="0">
+   <testsuite name="TS-01_LOGIN" tests="6" passed="6" failures="0" errors="0" incompleted="0" skipped="0" time="37.617" timestamp="2026-05-30T14:56:19.742Z" hostname="Lenovo - LAPTOP-5JN3FB4L" id="Test Suites/TS-01_LOGIN" status="PASSED">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="D:\\UNILA\\SKRIPSI\\Pengujian\\Functional Suitability\\Functional-Suitability-GIPM\\Reports\\20260530_215513\\TS-01_LOGIN\\20260530_215513"/>
+         <property name="logFiles" value="D:\\UNILA\\SKRIPSI\\Pengujian\\Functional Suitability\\Functional-Suitability-GIPM\\Reports\\20260530_215513\\TS-01_LOGIN\\20260530_215513\\console0.log, D:\\UNILA\\SKRIPSI\\Pengujian\\Functional Suitability\\Functional-Suitability-GIPM\\Reports\\20260530_215513\\TS-01_LOGIN\\20260530_215513\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="executionBindingVariables" value="[]"/>
+         <property name="hostName" value="Lenovo - LAPTOP-5JN3FB4L"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="11.1.3.0"/>
+         <property name="browser" value="Chrome 148.0.7778.179"/>
+         <property name="userFullName" value="Arnora Mardiansyah"/>
+         <property name="hostAddress" value="192.168.1.1"/>
+         <property name="sessionId" value="7b34d57ee65ea885f86e0985b8a8d55c"/>
+         <property name="projectName" value="Functional-Suitability-GIPM"/>
+         <property name="seleniumVersion" value="4.39.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TS-01_LOGIN/TC-01-01_Login_Valid_PM" time="11.372" classname="Test Cases/TS-01_LOGIN/TC-01-01_Login_Valid_PM" status="PASSED">
+         <system-out><![CDATA[30-05-2026T21:56:20 - [TEST_CASE][PASSED] - Test Cases/TS-01_LOGIN/TC-01-01_Login_Valid_PM: Test Cases/TS-01_LOGIN/TC-01-01_Login_Valid_PM
+
+30-05-2026T21:56:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-05-2026T21:56:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2026T21:56:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2026T21:56:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-05-2026T21:56:26 - [TEST_STEP][PASSED] - navigateToUrl("https://gipm.destroidmous.my.id/login"): Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:28 - [MESSAGE][PASSED] - Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:28 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Log in - GiPM/input_Email"), "Arnor@gmail.com"): Text 'Arnor@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email'
+
+30-05-2026T21:56:30 - [MESSAGE][PASSED] - Text 'Arnor@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email'
+
+30-05-2026T21:56:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "yjcyc3Nku24="): Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password'
+
+30-05-2026T21:56:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password'
+
+30-05-2026T21:56:30 - [TEST_STEP][PASSED] - click(findTestObject("Page_Log in - GiPM/button_Log in")): Object: 'Object Repository/Page_Log in - GiPM/button_Log in' is clicked on
+
+30-05-2026T21:56:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Log in - GiPM/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TS-01_LOGIN/TC-01-02_Login_Valid_Dev" time="6.791" classname="Test Cases/TS-01_LOGIN/TC-01-02_Login_Valid_Dev" status="PASSED">
+         <system-out><![CDATA[30-05-2026T21:56:31 - [TEST_CASE][PASSED] - Test Cases/TS-01_LOGIN/TC-01-02_Login_Valid_Dev: Test Cases/TS-01_LOGIN/TC-01-02_Login_Valid_Dev
+
+30-05-2026T21:56:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-05-2026T21:56:31 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2026T21:56:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2026T21:56:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2026T21:56:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-05-2026T21:56:33 - [TEST_STEP][PASSED] - navigateToUrl("https://gipm.destroidmous.my.id/login"): Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:35 - [MESSAGE][PASSED] - Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:35 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Log in - GiPM/input_Email"), "ArnorDev@gmail.com"): Text 'ArnorDev@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email'
+
+30-05-2026T21:56:37 - [MESSAGE][PASSED] - Text 'ArnorDev@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email'
+
+30-05-2026T21:56:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "XJjHRq1O5tG3K9uskNhPfg=="): Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password'
+
+30-05-2026T21:56:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password'
+
+30-05-2026T21:56:37 - [TEST_STEP][PASSED] - click(findTestObject("Page_Log in - GiPM/button_Log in")): Object: 'Object Repository/Page_Log in - GiPM/button_Log in' is clicked on
+
+30-05-2026T21:56:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Log in - GiPM/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TS-01_LOGIN/TC-01-03_Login_Valid_User" time="5.096" classname="Test Cases/TS-01_LOGIN/TC-01-03_Login_Valid_User" status="PASSED">
+         <system-out><![CDATA[30-05-2026T21:56:38 - [TEST_CASE][PASSED] - Test Cases/TS-01_LOGIN/TC-01-03_Login_Valid_User: Test Cases/TS-01_LOGIN/TC-01-03_Login_Valid_User
+
+30-05-2026T21:56:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-05-2026T21:56:38 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2026T21:56:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2026T21:56:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2026T21:56:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-05-2026T21:56:40 - [TEST_STEP][PASSED] - navigateToUrl("https://gipm.destroidmous.my.id/login"): Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:40 - [MESSAGE][PASSED] - Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:40 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Log in - GiPM/input_Email"), "ArnorUser@gmail.com"): Text 'ArnorUser@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email'
+
+30-05-2026T21:56:42 - [MESSAGE][PASSED] - Text 'ArnorUser@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email'
+
+30-05-2026T21:56:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password"), "+ChJcD+7ltPNNGh7IboufA=="): Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password'
+
+30-05-2026T21:56:43 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password'
+
+30-05-2026T21:56:43 - [TEST_STEP][PASSED] - click(findTestObject("Page_Log in - GiPM/button_Log in")): Object: 'Object Repository/Page_Log in - GiPM/button_Log in' is clicked on
+
+30-05-2026T21:56:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Log in - GiPM/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TS-01_LOGIN/TC-01-04_Input_password_salah" time="5.028" classname="Test Cases/TS-01_LOGIN/TC-01-04_Input_password_salah" status="PASSED">
+         <system-out><![CDATA[30-05-2026T21:56:43 - [TEST_CASE][PASSED] - Test Cases/TS-01_LOGIN/TC-01-04_Input_password_salah: Test Cases/TS-01_LOGIN/TC-01-04_Input_password_salah
+
+30-05-2026T21:56:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-05-2026T21:56:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2026T21:56:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2026T21:56:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2026T21:56:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-05-2026T21:56:45 - [TEST_STEP][PASSED] - navigateToUrl("https://gipm.destroidmous.my.id/login"): Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:45 - [MESSAGE][PASSED] - Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:45 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Log in - GiPM/input_Email_1"), "Arnor@gmail.com"): Text 'Arnor@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email_1'
+
+30-05-2026T21:56:47 - [MESSAGE][PASSED] - Text 'Arnor@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email_1'
+
+30-05-2026T21:56:47 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password_1"), "ejPJ2gYDxEY="): Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password_1'
+
+30-05-2026T21:56:48 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password_1'
+
+30-05-2026T21:56:48 - [TEST_STEP][PASSED] - click(findTestObject("Page_Log in - GiPM/button_Log in_1")): Object: 'Object Repository/Page_Log in - GiPM/button_Log in_1' is clicked on
+
+30-05-2026T21:56:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Log in - GiPM/button_Log in_1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TS-01_LOGIN/TC-01-05_Input_email_salah" time="4.957" classname="Test Cases/TS-01_LOGIN/TC-01-05_Input_email_salah" status="PASSED">
+         <system-out><![CDATA[30-05-2026T21:56:48 - [TEST_CASE][PASSED] - Test Cases/TS-01_LOGIN/TC-01-05_Input_email_salah: Test Cases/TS-01_LOGIN/TC-01-05_Input_email_salah
+
+30-05-2026T21:56:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-05-2026T21:56:48 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2026T21:56:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2026T21:56:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2026T21:56:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-05-2026T21:56:50 - [TEST_STEP][PASSED] - navigateToUrl("https://gipm.destroidmous.my.id/login"): Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:50 - [MESSAGE][PASSED] - Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:50 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Log in - GiPM/input_Email_1"), "Arn@gmail.com"): Text 'Arn@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email_1'
+
+30-05-2026T21:56:52 - [MESSAGE][PASSED] - Text 'Arn@gmail.com' is set on object 'Object Repository/Page_Log in - GiPM/input_Email_1'
+
+30-05-2026T21:56:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Page_Log in - GiPM/input_Password_1"), "yjcyc3Nku24="): Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password_1'
+
+30-05-2026T21:56:53 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Log in - GiPM/input_Password_1'
+
+30-05-2026T21:56:53 - [TEST_STEP][PASSED] - click(findTestObject("Page_Log in - GiPM/button_Log in_1")): Object: 'Object Repository/Page_Log in - GiPM/button_Log in_1' is clicked on
+
+30-05-2026T21:56:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Log in - GiPM/button_Log in_1' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TS-01_LOGIN/TC-01-06_Input_Kosong" time="3.718" classname="Test Cases/TS-01_LOGIN/TC-01-06_Input_Kosong" status="PASSED">
+         <system-out><![CDATA[30-05-2026T21:56:53 - [TEST_CASE][PASSED] - Test Cases/TS-01_LOGIN/TC-01-06_Input_Kosong: Test Cases/TS-01_LOGIN/TC-01-06_Input_Kosong
+
+30-05-2026T21:56:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-05-2026T21:56:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+30-05-2026T21:56:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-05-2026T21:56:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-05-2026T21:56:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-05-2026T21:56:55 - [TEST_STEP][PASSED] - navigateToUrl("https://gipm.destroidmous.my.id/login"): Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:56 - [MESSAGE][PASSED] - Navigate to 'https://gipm.destroidmous.my.id/login' successfully
+
+30-05-2026T21:56:56 - [TEST_STEP][PASSED] - click(findTestObject("Page_Log in - GiPM/button_Log in")): Object: 'Object Repository/Page_Log in - GiPM/button_Log in' is clicked on
+
+30-05-2026T21:56:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Log in - GiPM/button_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[30-05-2026T21:56:19 - [TEST_SUITE][PASSED] - TS-01_LOGIN: null]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

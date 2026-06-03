@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Projects</name>
+   <tag></tag>
+   <elementGuidId>3f54a11c-ee9b-442a-bdff-243c7c8724d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/projects&quot;] div.flex.items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and contains(concat(' ', normalize-space(@class), ' '), ' items-center ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Projects&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e242a22-3238-411f-b3fe-6bf5d54f3b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-2</value>
+      <webElementGuid>0bb04d89-c14d-41cf-af87-71cfe60cb9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Projects</value>
+      <webElementGuid>15fdf65d-dd5b-4a22-9eee-575cf15266a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2f82ffc4241c15b40a6f11ee7c07cfaf</value>
+      <webElementGuid>6f867a5b-59ed-4beb-ad5f-4aa1e2bdcb32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and contains(concat(' ', normalize-space(@class), ' '), ' items-center ')]</value>
+      <webElementGuid>07fc3cce-a435-4d72-9cf2-3fb3d529494a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and contains(concat(' ', normalize-space(@class), ' '), ' items-center ')]</value>
+      <webElementGuid>9998b655-6487-4174-859c-c6252d7010ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Projects' or . = 'Projects')]</value>
+      <webElementGuid>d89dcac2-1a03-402c-ac76-eaa9d4ab42c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

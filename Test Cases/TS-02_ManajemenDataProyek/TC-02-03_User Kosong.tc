@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02-03_User Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>884b22ce-d171-49f7-af9f-a7b4201d5597</testCaseGuid>
+</TestCaseEntity>

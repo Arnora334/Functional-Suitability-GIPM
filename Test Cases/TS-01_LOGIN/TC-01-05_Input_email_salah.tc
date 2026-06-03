@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-01-05_Input_email_salah</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a1a4ee2-2e09-4418-adcd-53874586b6aa</testCaseGuid>
+</TestCaseEntity>

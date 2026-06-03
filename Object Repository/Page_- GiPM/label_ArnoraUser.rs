@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ArnoraUser</name>
+   <tag></tag>
+   <elementGuidId>fcaeeed4-1bda-4c68-920d-0988e366b22d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(1) > div > .rounded.overflow-y-auto label.flex:nth-child(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 1)]/div/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded ') and contains(concat(' ', normalize-space(@class), ' '), ' overflow-y-auto ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and (name() = 'label') and (position() = 4)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ArnoraUser&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>54dceb58-e413-4ff0-9228-66425e171555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-2</value>
+      <webElementGuid>187274e0-7581-4970-8b43-2fe2aed4c795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ArnoraUser</value>
+      <webElementGuid>b27c42ae-0c18-43cf-b670-b894821f54e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-708fe5aef72ed77955a8a397cb1449f1</value>
+      <webElementGuid>3c73e8f0-30c3-48bf-8b7c-b49a27ebff10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 1)]/div/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded ') and contains(concat(' ', normalize-space(@class), ' '), ' overflow-y-auto ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and (name() = 'label') and (position() = 4)]</value>
+      <webElementGuid>8c0f8f3f-370b-469b-9f4b-f6b5331e6e67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 1)]/div/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded ') and contains(concat(' ', normalize-space(@class), ' '), ' overflow-y-auto ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' flex ') and (name() = 'label') and (position() = 4)]</value>
+      <webElementGuid>0b30f641-991f-47eb-9443-40419404db48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'ArnoraUser' or . = 'ArnoraUser')]</value>
+      <webElementGuid>746ad060-2179-4304-8cfc-3654b87fe922</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

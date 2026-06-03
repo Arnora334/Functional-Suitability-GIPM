@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Projects</name>
+   <tag></tag>
+   <elementGuidId>653f18ea-8dfa-45fc-976c-0ee42cd5001d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/projects&quot;] span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Projects&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e5edd3d-ed0a-44a3-95c7-b59ece0afd5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Projects</value>
+      <webElementGuid>d8be7be8-fa5e-42d5-ae4f-f80d94cabc96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e3b99a0aa3f13f953202aebd5187f5e3</value>
+      <webElementGuid>f8cfc734-afb4-4093-adab-67d2b2124e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//span</value>
+      <webElementGuid>2a84ee7e-1c9f-4a6f-b20b-6a59ff61cc2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//span</value>
+      <webElementGuid>c0f2cff4-f217-43de-b84b-ae09bed6791a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Projects' or . = 'Projects')]</value>
+      <webElementGuid>09525d56-1ec8-45e9-8756-5bf6e999f447</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

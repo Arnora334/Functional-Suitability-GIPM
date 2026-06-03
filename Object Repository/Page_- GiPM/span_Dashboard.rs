@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>df55071f-00c2-447a-9f83-6a91d35b0825</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/dashboard&quot;] span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'https://gipm.destroidmous.my.id/dashboard']//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Dashboard&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>250b2e64-dee9-474b-93e3-dce1f97627dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>02e2ef3a-495a-4370-a82f-28436c96acb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1a98a3d2a503e049fbc40e7fa55ade5c</value>
+      <webElementGuid>1b0f5845-c378-4c64-aa27-3f29333c14f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/dashboard']//span</value>
+      <webElementGuid>1cf6643e-ded6-4cea-8951-411fc8d2883d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/dashboard']//span</value>
+      <webElementGuid>7305a200-53e3-460d-bf05-4dfdc40a97cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>54626207-419d-4a5b-9cce-e4fbac3ecfa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

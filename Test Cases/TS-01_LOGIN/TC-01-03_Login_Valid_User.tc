@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-01-03_Login_Valid_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad7f7d3b-8a48-4e43-9c2d-8496386dee87</testCaseGuid>
+</TestCaseEntity>

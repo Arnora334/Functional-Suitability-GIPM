@@ -1,0 +1,115 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-02_ManajemenDataProyek,Chrome 148.0.7778.217,,,03-06-2026 22:05:53,03-06-2026 22:07:13,1m - 20.461s,PASSED
+,,,,,,,
+Test Cases/TS-02_ManajemenDataProyek/TC-02-01_Tambah project baru,Chrome 148.0.7778.217,,,03-06-2026 22:05:53,03-06-2026 22:06:21,27.901s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,03-06-2026 22:05:53,03-06-2026 22:05:56,2.710s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,03-06-2026 22:05:56,03-06-2026 22:05:56,0.463s,PASSED
+"setText(findTestObject(""Page_Log in - GiPM/input_Email""), ""Arnor@gmail.com"")",Chrome 148.0.7778.217,,,03-06-2026 22:05:56,03-06-2026 22:05:58,1.383s,PASSED
+"setEncryptedText(findTestObject(""Page_Log in - GiPM/input_Password""), ""yjcyc3Nku24="")",Chrome 148.0.7778.217,,,03-06-2026 22:05:58,03-06-2026 22:05:58,0.469s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in""))",Chrome 148.0.7778.217,,,03-06-2026 22:05:58,03-06-2026 22:05:59,0.372s,PASSED
+"click(findTestObject(""Page_Dashboard - GiPM/a_Projects""))",Chrome 148.0.7778.217,,,03-06-2026 22:05:59,03-06-2026 22:06:00,0.982s,PASSED
+"click(findTestObject(""Page_- GiPM/label_Arnora""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:00,03-06-2026 22:06:00,0.662s,PASSED
+"click(findTestObject(""Page_- GiPM/label_ArnorDev""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:00,03-06-2026 22:06:01,0.567s,PASSED
+"click(findTestObject(""Page_- GiPM/label_ArnoraUser""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:01,03-06-2026 22:06:01,0.633s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2""), ""Sistem Manajemen Proyek Test Berbasis Web"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:01,03-06-2026 22:06:03,1.120s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Login - 21""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:03,03-06-2026 22:06:03,0.679s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Logout - 3""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:03,03-06-2026 22:06:04,0.514s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Edit profil - 6""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:04,03-06-2026 22:06:04,0.615s,PASSED
+"click(findTestObject(""Page_- GiPM/span_ganti password - 7""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:04,03-06-2026 22:06:05,0.660s,PASSED
+"click(findTestObject(""Page_- GiPM/span_CRUD manajemen user  role - 30""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:05,03-06-2026 22:06:06,0.631s,PASSED
+"click(findTestObject(""Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:06,03-06-2026 22:06:06,0.615s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_1""), ""5"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:06,03-06-2026 22:06:07,0.952s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_2""), ""Pengembangan sistem manajemen proyek berbasis web untuk monitoring"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:07,03-06-2026 22:06:08,1.218s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_3""), ""120"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:08,03-06-2026 22:06:09,0.964s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_4""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:09,03-06-2026 22:06:10,0.648s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_5""), ""8"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:10,03-06-2026 22:06:11,0.768s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_6""), ""50000"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:11,03-06-2026 22:06:12,0.949s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_7""), ""500"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:12,03-06-2026 22:06:13,0.941s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:13,03-06-2026 22:06:13,0.603s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_9""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:13,03-06-2026 22:06:14,0.366s,PASSED
+"click(findTestObject(""Page_- GiPM/div_Biaya Awal Proyek""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:14,03-06-2026 22:06:14,0.393s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:14,03-06-2026 22:06:14,0.385s,PASSED
+"doubleClick(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:14,03-06-2026 22:06:15,0.442s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:15,03-06-2026 22:06:15,0.407s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_9""), ""15000000"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:15,03-06-2026 22:06:16,0.886s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_10""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:16,03-06-2026 22:06:17,0.658s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_11""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:17,03-06-2026 22:06:17,0.443s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_10""), ""300"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:17,03-06-2026 22:06:18,0.871s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_12""), ""5000000"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:18,03-06-2026 22:06:19,1.036s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_13""), ""120"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:19,03-06-2026 22:06:20,0.925s,PASSED
+"click(findTestObject(""Page_- GiPM/button_Simpan Project""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:20,03-06-2026 22:06:21,0.596s,PASSED
+,,,,,,,
+Test Cases/TS-02_ManajemenDataProyek/TC-02-02_Nama project kosong,Chrome 148.0.7778.217,,,03-06-2026 22:06:21,03-06-2026 22:06:47,25.894s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,03-06-2026 22:06:21,03-06-2026 22:06:22,1.468s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:22,03-06-2026 22:06:23,0.379s,PASSED
+"setText(findTestObject(""Page_Log in - GiPM/input_Email""), ""Arnor@gmail.com"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:23,03-06-2026 22:06:24,1.180s,PASSED
+"setEncryptedText(findTestObject(""Page_Log in - GiPM/input_Password""), ""yjcyc3Nku24="")",Chrome 148.0.7778.217,,,03-06-2026 22:06:24,03-06-2026 22:06:24,0.435s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:24,03-06-2026 22:06:25,0.456s,PASSED
+"click(findTestObject(""Page_Dashboard - GiPM/a_Projects""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:25,03-06-2026 22:06:26,0.979s,PASSED
+"click(findTestObject(""Page_- GiPM/label_Arnora""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:26,03-06-2026 22:06:26,0.587s,PASSED
+"click(findTestObject(""Page_- GiPM/label_ArnorDev""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:26,03-06-2026 22:06:27,0.627s,PASSED
+"click(findTestObject(""Page_- GiPM/label_ArnoraUser""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:27,03-06-2026 22:06:28,0.596s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2""), """")",Chrome 148.0.7778.217,,,03-06-2026 22:06:28,03-06-2026 22:06:28,0.896s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Login - 21""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:28,03-06-2026 22:06:29,0.350s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Logout - 3""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:29,03-06-2026 22:06:29,0.604s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Edit profil - 6""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:29,03-06-2026 22:06:30,0.647s,PASSED
+"click(findTestObject(""Page_- GiPM/span_ganti password - 7""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:30,03-06-2026 22:06:31,0.637s,PASSED
+"click(findTestObject(""Page_- GiPM/span_CRUD manajemen user  role - 30""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:31,03-06-2026 22:06:31,0.583s,PASSED
+"click(findTestObject(""Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:31,03-06-2026 22:06:32,0.637s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_1""), ""5"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:32,03-06-2026 22:06:33,0.983s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_2""), ""Pengembangan sistem manajemen proyek berbasis App"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:33,03-06-2026 22:06:34,1.082s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_3""), ""120"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:34,03-06-2026 22:06:35,1.020s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_4""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:35,03-06-2026 22:06:36,0.594s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_5""), ""8"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:36,03-06-2026 22:06:36,0.700s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_6""), ""50000"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:36,03-06-2026 22:06:37,0.998s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_7""), ""500"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:37,03-06-2026 22:06:38,0.993s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:38,03-06-2026 22:06:39,0.662s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_9""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:39,03-06-2026 22:06:39,0.396s,PASSED
+"click(findTestObject(""Page_- GiPM/div_Biaya Awal Proyek""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:39,03-06-2026 22:06:40,0.354s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:40,03-06-2026 22:06:40,0.417s,PASSED
+"doubleClick(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:40,03-06-2026 22:06:41,0.486s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:41,03-06-2026 22:06:41,0.423s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_9""), ""15000000"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:41,03-06-2026 22:06:42,0.782s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_10""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:42,03-06-2026 22:06:42,0.602s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_11""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:42,03-06-2026 22:06:43,0.384s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_10""), ""300"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:43,03-06-2026 22:06:43,0.664s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_12""), ""5000000"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:43,03-06-2026 22:06:44,0.983s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_13""), ""120"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:44,03-06-2026 22:06:45,0.941s,PASSED
+"click(findTestObject(""Page_- GiPM/button_Simpan Project""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:45,03-06-2026 22:06:46,0.602s,PASSED
+"verifyTextNotPresent(""Pengembangan sistem manajemen proyek berbasis App"", false)",Chrome 148.0.7778.217,,,03-06-2026 22:06:46,03-06-2026 22:06:47,0.659s,PASSED
+,,,,,,,
+Test Cases/TS-02_ManajemenDataProyek/TC-02-03_User Kosong,Chrome 148.0.7778.217,,,03-06-2026 22:06:47,03-06-2026 22:07:13,26.274s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,03-06-2026 22:06:47,03-06-2026 22:06:48,1.453s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:48,03-06-2026 22:06:49,0.358s,PASSED
+"setText(findTestObject(""Page_Log in - GiPM/input_Email""), ""Arnor@gmail.com"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:49,03-06-2026 22:06:50,1.269s,PASSED
+"setEncryptedText(findTestObject(""Page_Log in - GiPM/input_Password""), ""yjcyc3Nku24="")",Chrome 148.0.7778.217,,,03-06-2026 22:06:50,03-06-2026 22:06:50,0.369s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:50,03-06-2026 22:06:51,0.401s,PASSED
+"click(findTestObject(""Page_Dashboard - GiPM/a_Projects""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:51,03-06-2026 22:06:52,0.998s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2""), ""Sistem Manajemen Proyek Test Berbasis Web"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:52,03-06-2026 22:06:53,1.199s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Login - 21""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:53,03-06-2026 22:06:53,0.617s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Logout - 3""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:53,03-06-2026 22:06:54,0.616s,PASSED
+"click(findTestObject(""Page_- GiPM/input_Edit profil - 6""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:54,03-06-2026 22:06:55,0.618s,PASSED
+"click(findTestObject(""Page_- GiPM/span_ganti password - 7""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:55,03-06-2026 22:06:55,0.626s,PASSED
+"click(findTestObject(""Page_- GiPM/span_CRUD manajemen user  role - 30""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:55,03-06-2026 22:06:56,0.604s,PASSED
+"click(findTestObject(""Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13""))",Chrome 148.0.7778.217,,,03-06-2026 22:06:56,03-06-2026 22:06:57,0.632s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_1""), ""5"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:57,03-06-2026 22:06:58,1.036s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_2""), ""Pengembangan sistem manajemen proyek berbasis App"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:58,03-06-2026 22:06:59,1.125s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_3""), ""120"")",Chrome 148.0.7778.217,,,03-06-2026 22:06:59,03-06-2026 22:07:00,0.997s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_4""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:00,03-06-2026 22:07:00,0.590s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_5""), ""8"")",Chrome 148.0.7778.217,,,03-06-2026 22:07:00,03-06-2026 22:07:01,0.725s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_6""), ""50000"")",Chrome 148.0.7778.217,,,03-06-2026 22:07:01,03-06-2026 22:07:02,0.940s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_7""), ""500"")",Chrome 148.0.7778.217,,,03-06-2026 22:07:02,03-06-2026 22:07:03,0.976s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:03,03-06-2026 22:07:03,0.572s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_9""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:03,03-06-2026 22:07:04,0.406s,PASSED
+"click(findTestObject(""Page_- GiPM/div_Biaya Awal Proyek""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:04,03-06-2026 22:07:04,0.404s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:04,03-06-2026 22:07:05,0.356s,PASSED
+"doubleClick(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:05,03-06-2026 22:07:05,0.451s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_8""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:05,03-06-2026 22:07:06,0.407s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_9""), ""15000000"")",Chrome 148.0.7778.217,,,03-06-2026 22:07:06,03-06-2026 22:07:06,0.802s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_10""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:06,03-06-2026 22:07:07,0.656s,PASSED
+"click(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_11""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:07,03-06-2026 22:07:07,0.426s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_10""), ""300"")",Chrome 148.0.7778.217,,,03-06-2026 22:07:07,03-06-2026 22:07:08,0.773s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_12""), ""5000000"")",Chrome 148.0.7778.217,,,03-06-2026 22:07:08,03-06-2026 22:07:09,1.020s,PASSED
+"setText(findTestObject(""Page_- GiPM/input_w-full border rounded px-3 py-2_13""), ""120"")",Chrome 148.0.7778.217,,,03-06-2026 22:07:09,03-06-2026 22:07:10,0.928s,PASSED
+"click(findTestObject(""Page_- GiPM/button_Simpan Project""))",Chrome 148.0.7778.217,,,03-06-2026 22:07:10,03-06-2026 22:07:12,2.068s,PASSED
+"verifyTextNotPresent(""Pengembangan sistem manajemen proyek berbasis App"", false)",Chrome 148.0.7778.217,,,03-06-2026 22:07:12,03-06-2026 22:07:13,0.747s,PASSED

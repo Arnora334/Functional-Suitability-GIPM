@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02-01_Tambah project baru</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8be52090-2ba3-49d0-98bc-5b06db967f75</testCaseGuid>
+</TestCaseEntity>
