@@ -67,8 +67,6 @@ WebUI.click(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_8'
 
 WebUI.click(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_9'))
 
-WebUI.click(findTestObject('Page_- GiPM/div_Biaya Awal Proyek'))
-
 WebUI.click(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_8'))
 
 WebUI.doubleClick(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_8'))

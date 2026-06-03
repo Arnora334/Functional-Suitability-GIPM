@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-03-04_Edit data project</name>
+   <name>TC-02-05-Detail Project</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>0b199404-0296-48fc-87ca-e97d08cd0e05</testCaseGuid>
+   <testCaseGuid>f2f316d4-a19c-443c-a6bc-ab1631fe9f7b</testCaseGuid>
 </TestCaseEntity>

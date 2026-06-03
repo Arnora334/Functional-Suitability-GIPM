@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://gipm.destroidmous.my.id/login')
+
+WebUI.setText(findTestObject('New Folder/Page_Log in - GiPM/input_Email'), 'Arnor@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('New Folder/Page_Log in - GiPM/input_Password'), 'yjcyc3Nku24=')
+
+WebUI.click(findTestObject('New Folder/Page_Log in - GiPM/button_Log in'))
+
+WebUI.click(findTestObject('New Folder/Page_Dashboard - GiPM/a_Projects'))
+
+WebUI.click(findTestObject('Page_Dashboard - GiPM/span_Projects'))
+
+WebUI.click(findTestObject('Page_- GiPM/a_Detail'))
+
+WebUI.click(findTestObject('Page_- GiPM/div_QAcoba2gEstimasi biaya awal_ Rp210.000 Esti'))
+
