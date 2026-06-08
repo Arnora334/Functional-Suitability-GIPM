@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-03-04_Format email tidak valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c9cb1c1-f96d-45b4-baa2-5207b1997c72</testCaseGuid>
+</TestCaseEntity>
