@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-03-06_Login User Baru</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb3f0cb0-8df8-46be-b1d7-234cc5e46a62</testCaseGuid>
+</TestCaseEntity>
