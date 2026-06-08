@@ -29,7 +29,7 @@ WebUI.setEncryptedText(findTestObject('Page_Log in - GiPM/Page_Log in - GiPM/inp
 
 WebUI.click(findTestObject('Page_Log in - GiPM/Page_Log in - GiPM/button_Log in'))
 
-WebUI.click(findTestObject('Page_Log in - GiPM/Page_Dashboard - GiPM/a_Project Board'))
+WebUI.navigateToUrl('https://gipm.destroidmous.my.id/project-board')
 
 WebUI.closeBrowser()
 
