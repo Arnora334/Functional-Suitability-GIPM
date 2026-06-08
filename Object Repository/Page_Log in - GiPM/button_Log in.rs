@@ -6,16 +6,16 @@
    <elementGuidId>adb8e701-6650-4233-a53f-e9a888e7d825</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>.rounded-lg.sm\:text-lg</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>85f01923-8286-4d86-8b4e-b43a2d5b1997</webElementGuid>
+      <webElementGuid>e896c44a-3523-4d5b-97d5-79a74724a4a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>48cfc282-bff0-46d0-b48a-add86e6e24a1</webElementGuid>
+      <webElementGuid>9ac738ac-565b-4b96-92a1-c1c9516d586d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center px-4 py-2 text-md sm:text-lg font-medium rounded-lg gap-2 cursor-pointer transition-colors duration-300 disabled:cursor-not-allowed text-white bg-[#db2727] hover:bg-[#991b1b] disabled:bg-[#fee2e2] </value>
-      <webElementGuid>ed0da65e-1a6a-4206-bdf7-5484ccc40da1</webElementGuid>
+      <webElementGuid>a0d287cf-f47f-49dd-9e07-07f90ea9778b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>78c1696f-962b-4989-8eaf-bc6fcee14342</webElementGuid>
+      <webElementGuid>96b1b4bd-1651-4ca7-bcca-88f5adb01fe0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-95f7db9a973e01d131fdfc03b2c21900</value>
-      <webElementGuid>9ed8b417-90d6-4354-82d1-de7519b575ba</webElementGuid>
+      <webElementGuid>7fda4fc3-1e57-43e2-956f-b14e446ece06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
-      <webElementGuid>a638e0e0-db43-4eae-b8fc-a8456d80e718</webElementGuid>
+      <webElementGuid>910e5665-f6e0-436f-8b7b-cfb96c4f30bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
-      <webElementGuid>fc00913c-116c-4163-a9bb-6dde9ee81991</webElementGuid>
+      <webElementGuid>8c0b79e4-02f3-4212-b26c-5dd0f24d58d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>5290103f-f7c6-4f74-84c5-4a3a08aa8306</webElementGuid>
+      <webElementGuid>ca6edaf2-557b-48f2-bbf4-10b343b00374</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

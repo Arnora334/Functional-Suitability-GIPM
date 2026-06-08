@@ -6,12 +6,12 @@
    <elementGuidId>b348dc16-0913-417d-b1b7-01e066092a58</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/projects&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/projects&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f32988ba-7466-4367-bd14-9d3ff965f4ec</webElementGuid>
+      <webElementGuid>080a0151-2c61-403b-a67e-5c67fc79e502</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>inline-flex items-center text-sm font-regular leading-5 transition duration-300 ease-in-out focus:outline-none text-gray-500 hover:text-gray-800 focus:text-gray-700flex items-center justify-between w-full pt-1 pb-1 text-sm rounded-sm 
                     text-gray-500 hover:text-gray-800 hover:bg-gray-200</value>
-      <webElementGuid>cb80beb1-05f0-4eae-9d2f-b7e3b6acd4b6</webElementGuid>
+      <webElementGuid>ca0dd88f-2971-44de-b511-61fc6be82beb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://gipm.destroidmous.my.id/projects</value>
-      <webElementGuid>a1cc7bc7-026d-48d3-a54b-61f71fc11d04</webElementGuid>
+      <webElementGuid>bf2c5982-4d92-4038-a969-bab4bbedcf33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Projects</value>
-      <webElementGuid>67cda47f-76de-48d0-90d3-b809f70a70c3</webElementGuid>
+      <webElementGuid>f3acf3b7-aebb-4259-8e7e-38460ae79890</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-bf320ee156942ef2f083c52800abf527</value>
-      <webElementGuid>08a86175-4f0a-4cae-8129-3e127a804785</webElementGuid>
+      <webElementGuid>8df22bd5-2c65-455f-8a52-7238e5ab3c2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']</value>
-      <webElementGuid>39a37bfd-ee75-4502-9a79-cbd503505674</webElementGuid>
+      <webElementGuid>3b5e0587-a8cb-42f1-ac1a-dcc96ba64132</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']</value>
-      <webElementGuid>34c1a6d9-d9dc-4de1-aad2-09505b203d84</webElementGuid>
+      <webElementGuid>0aec9ab2-08e2-4d7c-9319-68b2c1b57d2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://gipm.destroidmous.my.id/projects' and (text() = 'Projects' or . = 'Projects')]</value>
-      <webElementGuid>2021df32-9db6-4bea-9e94-5c9d50da5acf</webElementGuid>
+      <webElementGuid>4a5854d5-0318-46d6-85a1-f04c79f46584</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

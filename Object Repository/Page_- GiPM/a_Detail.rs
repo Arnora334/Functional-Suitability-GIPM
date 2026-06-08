@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Detail</name>
+   <tag></tag>
+   <elementGuidId>d101f9c7-42bd-480c-afc3-546dafcfa657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' underline ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(4) .underline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Arnora, ArnorDep, ArnoraUser, ArnoraQA QAcoba2 14 complete Edit Hapus Detail&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4eac8fb5-2015-4d77-90a6-cbf208dd9945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-blue-600 underline</value>
+      <webElementGuid>66aad30c-1e03-4f0e-8422-062df3b78b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/projects/6</value>
+      <webElementGuid>bb76b29a-96e1-4a17-b4ee-497126ef6637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>6dea6801-2097-4e6e-81ee-847aecf02907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5e5c693049dd1b6c567f778b929a5eb6</value>
+      <webElementGuid>6cdd6e3b-630e-4f77-bdb5-b198a3eaa65f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' underline ')]</value>
+      <webElementGuid>1e8c993f-d4d4-4ffd-aecc-ea7f7e19bfb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' underline ')]</value>
+      <webElementGuid>a92a4f14-ae8c-4422-9b84-74a3d767641c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/projects/6' and (text() = 'Detail' or . = 'Detail')]</value>
+      <webElementGuid>15cc48c8-7a7e-41e4-be30-193c8eadf13e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

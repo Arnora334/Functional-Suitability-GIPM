@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Projects</name>
+   <tag></tag>
+   <elementGuidId>da85e961-76b9-4327-8fdf-7c6217905407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/projects&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Projects&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37f6de23-6f55-47eb-b4fe-e7f58ff5a7b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center text-sm font-regular leading-5 transition duration-300 ease-in-out focus:outline-none text-gray-500 hover:text-gray-800 focus:text-gray-700flex items-center justify-between w-full pt-1 pb-1 text-sm rounded-sm 
+                    text-gray-500 hover:text-gray-800 hover:bg-gray-200</value>
+      <webElementGuid>d9c70e6c-46f0-4e14-a360-f717d3986b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://gipm.destroidmous.my.id/projects</value>
+      <webElementGuid>c459e7e1-8d1e-49b8-84f7-691e2702cd1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Projects</value>
+      <webElementGuid>26ce2e5e-6d32-4c58-8b0d-eb6c02bfb14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bf320ee156942ef2f083c52800abf527</value>
+      <webElementGuid>7a8f63f0-4fcd-4350-b95b-49e78724b441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']</value>
+      <webElementGuid>d56c30f2-e987-43fa-a919-8391424f1a64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']</value>
+      <webElementGuid>c8d21c80-5ab6-4ae2-a4cd-09a97767b888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://gipm.destroidmous.my.id/projects' and (text() = 'Projects' or . = 'Projects')]</value>
+      <webElementGuid>1149092c-75fb-4f10-9fce-3a4540aa6b23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

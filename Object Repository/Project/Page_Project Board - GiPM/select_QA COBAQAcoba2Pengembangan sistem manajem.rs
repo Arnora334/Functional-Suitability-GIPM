@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_QA COBAQAcoba2Pengembangan sistem manajem</name>
+   <tag></tag>
+   <elementGuidId>16f86302-59a8-4237-9a1b-b9223209dda8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f4bda508-55e1-461a-9b2d-edc414686227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 w-full md:w-64</value>
+      <webElementGuid>18be250b-2744-4ba5-b8b4-0c790aaf46c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QA COBAQAcoba2Pengembangan sistem manajemen proyek berbasis App</value>
+      <webElementGuid>70ddc6ab-c313-44b4-ac45-42f351d98369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b83b0f05aca55bb078d925bdbdb92fe3</value>
+      <webElementGuid>ba462d29-5c2f-49fd-91e1-0cc0db2f928b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0b67a522-53aa-43df-b00b-c7ad1e3d907b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>518cabb2-4fb8-4bd2-b96a-561700c72892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'QA COBAQAcoba2Pengembangan sistem manajemen proyek berbasis App' or . = 'QA COBAQAcoba2Pengembangan sistem manajemen proyek berbasis App')]</value>
+      <webElementGuid>d80b2cb3-ae29-48fa-9957-37a99366c79f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

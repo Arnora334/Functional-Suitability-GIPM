@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02-06_Projek tersedia pada user terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cca56691-f0f1-44fa-a7f0-bac105211c76</testCaseGuid>
+</TestCaseEntity>

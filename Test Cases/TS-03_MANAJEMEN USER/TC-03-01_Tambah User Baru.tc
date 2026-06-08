@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-03-01_Tambah User Baru</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24e63228-10c0-4c06-bf65-f1f6ca6ce1e6</testCaseGuid>
+</TestCaseEntity>

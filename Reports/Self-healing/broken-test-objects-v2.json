@@ -1,3 +1,44 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2",
+      "brokenLocator": "//*[@value \u003d \u0027Sistem Informasi Desa X\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@value\u003d\u0027\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2",
+      "brokenLocator": "//*[@value \u003d \u0027Sistem Manajemen Proyek Test Berbasis Web\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@value\u003d\u0027\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_1",
+      "brokenLocator": "//*[@value \u003d \u0027Sistem Manajemen Proyek Test Berbasis App\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@value\u003d\u0027Sistem Manajemen Proyek Test Berbasis Web\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_1_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Project/Page_- GiPM/input_w-full border rounded px-3 py-2_1",
+      "brokenLocator": "//*[@value \u003d \u0027Sistem Manajemen Proyek Desa Digital\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@value\u003d\u0027Pengembangan sistem manajemen proyek berbasis App\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Project/Page_- GiPM/input_w-full border rounded px-3 py-2_1_XPATH.png"
+    }
+  ]
 }

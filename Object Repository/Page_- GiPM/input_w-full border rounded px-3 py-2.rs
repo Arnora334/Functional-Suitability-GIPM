@@ -6,12 +6,16 @@
    <elementGuidId>cb536f88-4499-4dbb-a6d6-7067e67a7e00</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-child(2) > [type=&quot;text&quot;]</value>
+         <key>XPATH</key>
+         <value>//*[@value = 'Sistem Manajemen Proyek Test Berbasis Web']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[(name() = 'div') and (position() = 2)]/*[@type = 'text']</value>
+         <key>CSS</key>
+         <value>[value=&quot;Sistem\ Manajemen\ Proyek\ Test\ Berbasis\ Web&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6d3ce0f1-224c-4506-849b-98db659cf6a1</webElementGuid>
+      <webElementGuid>233446f8-0b17-4ce8-81a7-570a564a854f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bc200c97-ab26-4f82-914b-d67e4c37fc0d</webElementGuid>
+      <webElementGuid>a150008a-a281-48af-b652-c0030d5baa7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,31 +49,39 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full border rounded px-3 py-2</value>
-      <webElementGuid>c28d3dfb-afd7-44c9-802b-7efd1083fbf4</webElementGuid>
+      <webElementGuid>f09e599a-c134-45da-a5d5-d5f6cecc4c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sistem Manajemen Proyek Test Berbasis Web</value>
+      <webElementGuid>8e612eff-ab07-468d-9dd6-257f310dd34a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-c7022c6bc19a3c884259186ef2e7b84e</value>
-      <webElementGuid>da369562-0032-424a-b91a-5382ad9482e0</webElementGuid>
+      <value>md5.v1-733001df563e540d8a1647b381ee2fba</value>
+      <webElementGuid>f668f9ff-5867-4d81-b9d5-f66febd75135</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'div') and (position() = 2)]/*[@type = 'text']</value>
-      <webElementGuid>15311352-408b-479b-a104-72d9e4cd85e5</webElementGuid>
+      <value>//*[@value = 'Sistem Manajemen Proyek Test Berbasis Web']</value>
+      <webElementGuid>de74d19d-846e-4aa6-8e3a-d5ef61e906fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'div') and (position() = 2)]/*[@type = 'text']</value>
-      <webElementGuid>d4a9f264-af58-42fb-96a5-1e3d1cf54bbb</webElementGuid>
+      <value>//*[@value = 'Sistem Manajemen Proyek Test Berbasis Web']</value>
+      <webElementGuid>101e68e1-b89c-4a49-a037-a7ace033f35e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>7ac4732b-42dd-49b3-90d2-2e34be3bd22a</webElementGuid>
+      <webElementGuid>d9acd8d8-4da7-4081-b99e-2776b2b0e438</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

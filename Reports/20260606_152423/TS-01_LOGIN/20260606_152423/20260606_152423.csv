@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-01_LOGIN,Chrome 148.0.7778.217,,,06-06-2026 15:25:15,06-06-2026 15:25:42,26.973s,PASSED
+,,,,,,,
+Test Cases/TS-01_LOGIN/TC-01-01_Login_Valid_PM,Chrome 148.0.7778.217,,,06-06-2026 15:25:15,06-06-2026 15:25:22,7.027s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,06-06-2026 15:25:15,06-06-2026 15:25:19,3.440s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:19,06-06-2026 15:25:20,0.885s,PASSED
+"setText(findTestObject(""Page_Log in - GiPM/input_Email""), ""Arnor@gmail.com"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:20,06-06-2026 15:25:21,1.456s,PASSED
+"setEncryptedText(findTestObject(""Page_Log in - GiPM/input_Password""), ""yjcyc3Nku24="")",Chrome 148.0.7778.217,,,06-06-2026 15:25:21,06-06-2026 15:25:22,0.498s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in""))",Chrome 148.0.7778.217,,,06-06-2026 15:25:22,06-06-2026 15:25:22,0.405s,PASSED
+,,,,,,,
+Test Cases/TS-01_LOGIN/TC-01-02_Login_Valid_Dev,Chrome 148.0.7778.217,,,06-06-2026 15:25:22,06-06-2026 15:25:26,3.985s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,06-06-2026 15:25:22,06-06-2026 15:25:24,1.420s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:24,06-06-2026 15:25:24,0.361s,PASSED
+"setText(findTestObject(""Page_Log in - GiPM/input_Email""), ""ArnorDev@gmail.com"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:24,06-06-2026 15:25:25,1.353s,PASSED
+"setEncryptedText(findTestObject(""Page_Log in - GiPM/input_Password""), ""XJjHRq1O5tG3K9uskNhPfg=="")",Chrome 148.0.7778.217,,,06-06-2026 15:25:25,06-06-2026 15:25:26,0.415s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in""))",Chrome 148.0.7778.217,,,06-06-2026 15:25:26,06-06-2026 15:25:26,0.365s,PASSED
+,,,,,,,
+Test Cases/TS-01_LOGIN/TC-01-03_Login_Valid_User,Chrome 148.0.7778.217,,,06-06-2026 15:25:26,06-06-2026 15:25:30,3.961s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,06-06-2026 15:25:26,06-06-2026 15:25:28,1.374s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:28,06-06-2026 15:25:28,0.357s,PASSED
+"setText(findTestObject(""Page_Log in - GiPM/input_Email""), ""ArnorUser@gmail.com"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:28,06-06-2026 15:25:29,1.334s,PASSED
+"setEncryptedText(findTestObject(""Page_Log in - GiPM/input_Password""), ""+ChJcD+7ltPNNGh7IboufA=="")",Chrome 148.0.7778.217,,,06-06-2026 15:25:29,06-06-2026 15:25:30,0.424s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in""))",Chrome 148.0.7778.217,,,06-06-2026 15:25:30,06-06-2026 15:25:30,0.406s,PASSED
+,,,,,,,
+Test Cases/TS-01_LOGIN/TC-01-04_Input_password_salah,Chrome 148.0.7778.217,,,06-06-2026 15:25:30,06-06-2026 15:25:35,4.817s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,06-06-2026 15:25:30,06-06-2026 15:25:32,1.380s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:32,06-06-2026 15:25:32,0.510s,PASSED
+"setText(findTestObject(""Page_Log in - GiPM/input_Email_1""), ""Arnor@gmail.com"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:32,06-06-2026 15:25:34,1.834s,PASSED
+"setEncryptedText(findTestObject(""Page_Log in - GiPM/input_Password_1""), ""ejPJ2gYDxEY="")",Chrome 148.0.7778.217,,,06-06-2026 15:25:34,06-06-2026 15:25:35,0.534s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in_1""))",Chrome 148.0.7778.217,,,06-06-2026 15:25:35,06-06-2026 15:25:35,0.471s,PASSED
+,,,,,,,
+Test Cases/TS-01_LOGIN/TC-01-05_Input_email_salah,Chrome 148.0.7778.217,,,06-06-2026 15:25:35,06-06-2026 15:25:39,3.929s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,06-06-2026 15:25:35,06-06-2026 15:25:36,1.318s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:36,06-06-2026 15:25:37,0.342s,PASSED
+"setText(findTestObject(""Page_Log in - GiPM/input_Email_1""), ""Arn@gmail.com"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:37,06-06-2026 15:25:38,1.354s,PASSED
+"setEncryptedText(findTestObject(""Page_Log in - GiPM/input_Password_1""), ""yjcyc3Nku24="")",Chrome 148.0.7778.217,,,06-06-2026 15:25:38,06-06-2026 15:25:39,0.389s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in_1""))",Chrome 148.0.7778.217,,,06-06-2026 15:25:39,06-06-2026 15:25:39,0.429s,PASSED
+,,,,,,,
+Test Cases/TS-01_LOGIN/TC-01-06_Input_Kosong,Chrome 148.0.7778.217,,,06-06-2026 15:25:39,06-06-2026 15:25:42,2.676s,PASSED
+"openBrowser("""")",Chrome 148.0.7778.217,,,06-06-2026 15:25:39,06-06-2026 15:25:40,1.357s,PASSED
+"navigateToUrl(""https://gipm.destroidmous.my.id/login"")",Chrome 148.0.7778.217,,,06-06-2026 15:25:40,06-06-2026 15:25:41,0.313s,PASSED
+"click(findTestObject(""Page_Log in - GiPM/button_Log in""))",Chrome 148.0.7778.217,,,06-06-2026 15:25:41,06-06-2026 15:25:42,0.940s,PASSED

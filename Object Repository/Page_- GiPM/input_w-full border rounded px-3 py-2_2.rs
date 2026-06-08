@@ -6,19 +6,23 @@
    <elementGuidId>df5c5e10-cfe2-490b-8ed6-04a4b874f23a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[type=&quot;text&quot;][value=&quot;&quot;]</value>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 9)]//*[@type = 'number']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[(@type = 'text') and (@value = '')]</value>
+         <key>CSS</key>
+         <value>div:nth-child(9) [type=&quot;number&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'number']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Deskripsi$/ >> internal:role=textbox</value>
+         <value>div >> internal:has-text=/^Jam kerja sehari$/ >> internal:role=spinbutton</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c0907dce-e540-488f-98a1-6332812fb1dc</webElementGuid>
+      <webElementGuid>c5f1c398-431c-4b8b-913b-280c9f387db6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>42c10204-7e67-4c78-8da4-1204c8f88c5c</webElementGuid>
+      <value>number</value>
+      <webElementGuid>05790398-c96f-4100-857c-33c5db802bd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,38 +49,46 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full border rounded px-3 py-2</value>
-      <webElementGuid>5e930414-70e4-483b-9c74-0e04a58f3951</webElementGuid>
+      <webElementGuid>ff09c4df-47d3-480a-bbdb-2c638c637594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>fd202324-b30b-4e26-9202-2b28843cb552</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-8336afc8e06d97f893b81a7d2d4da9b2</value>
-      <webElementGuid>ec32dbaa-8435-4d83-92e7-eb4f99500a89</webElementGuid>
+      <value>md5.v1-e5ff2e172236d708b137243130bd6bb1</value>
+      <webElementGuid>3e8fe35c-5224-42c8-8688-6e46bc1da054</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(@type = 'text') and (@value = '')]</value>
-      <webElementGuid>e2e590ba-9b03-4d92-9636-334df6aa9162</webElementGuid>
+      <value>//*[(name() = 'div') and (position() = 9)]//*[@type = 'number']</value>
+      <webElementGuid>a6f7e427-ffb8-4e76-bac5-8e4e5ecf9728</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(@type = 'text') and (@value = '')]</value>
-      <webElementGuid>1e5627e5-f35a-4b5d-8555-278c7e80222d</webElementGuid>
+      <value>//*[(name() = 'div') and (position() = 9)]//*[@type = 'number']</value>
+      <webElementGuid>0d3c178d-da01-4398-aaa1-54e6b779b7d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text']</value>
-      <webElementGuid>6266ae12-5604-498f-bd74-d0cc5b9d9a6e</webElementGuid>
+      <value>//input[@type = 'number']</value>
+      <webElementGuid>c9bbe56c-8a0b-42db-a240-dfb53a5d9a6e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
