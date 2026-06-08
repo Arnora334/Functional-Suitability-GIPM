@@ -17,3 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://gipm.destroidmous.my.id/login')
+
+WebUI.setText(findTestObject('Project/Page_Log in - GiPM/input_Email'), 'Arnor@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Project/Page_Log in - GiPM/input_Password'), 'yjcyc3Nku24=')
+
+WebUI.click(findTestObject('Project/Page_Log in - GiPM/button_Log in'))
+
+WebUI.switchToWindowTitle('Dashboard - GiPM')
+
+WebUI.click(findTestObject('User Management/Page_Dashboard - GiPM/a_Users'))
+
+WebUI.switchToWindowTitle('- GiPM')
+
+WebUI.click(findTestObject('Page_- GiPM/button_Edit'))
+
+WebUI.setText(findTestObject('Page_- GiPM/input_Nama'), 'UserTest1')
+
+WebUI.click(findTestObject('Page_- GiPM/button_Update'))
+
+WebUI.verifyTextPresent('UserTest1', false)
+
