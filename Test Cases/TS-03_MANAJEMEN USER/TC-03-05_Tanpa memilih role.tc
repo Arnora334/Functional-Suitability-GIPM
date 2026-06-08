@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-03-05_Tanpa memilih role</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>afdbe4a4-5477-401e-8154-c90fafeeb8f5</testCaseGuid>
+</TestCaseEntity>
