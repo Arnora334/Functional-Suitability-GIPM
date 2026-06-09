@@ -27,13 +27,16 @@ WebUI.setEncryptedText(findTestObject('New Folder/Page_Log in - GiPM/input_Passw
 
 WebUI.click(findTestObject('New Folder/Page_Log in - GiPM/button_Log in'))
 
-WebUI.click(findTestObject('New Folder/Page_Dashboard - GiPM/a_Projects'))
+WebUI.click(findTestObject('Page_- GiPM/span_Projects'))
 
-WebUI.click(findTestObject('New Folder/Page_Dashboard - GiPM/span_Projects'))
+WebUI.click(findTestObject('Page_- GiPM/button_Edit_1'))
 
-WebUI.click(findTestObject('Page_- GiPM/button_Edit'))
-
-WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_2'), '9')
+WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_1'), 'Sistem Informasi Desa New')
 
 WebUI.click(findTestObject('Page_- GiPM/button_Update Project'))
 
+WebUI.refresh()
+
+WebUI.click(findTestObject('Page_- GiPM/button_Edit_1'))
+
+WebUI.verifyTextPresent('Sistem Informasi Desa New', false)

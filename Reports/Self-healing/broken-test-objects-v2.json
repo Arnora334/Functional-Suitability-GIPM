@@ -39,6 +39,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Project/Page_- GiPM/input_w-full border rounded px-3 py-2_1_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_- GiPM/button_Edit",
+      "brokenLocator": "//*[(name() \u003d \u0027tr\u0027) and (position() \u003d 7)]//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 text-white \u0027) and (position() \u003d 1)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div/main/div/div/div/div/table/tbody/tr/td[5]/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_- GiPM/button_Edit_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_1",
+      "brokenLocator": "//*[@value \u003d \u0027Sistem Manajemen Proyek Test Berbasis App\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@value\u003d\u0027\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_1_XPATH.png"
     }
   ]
 }

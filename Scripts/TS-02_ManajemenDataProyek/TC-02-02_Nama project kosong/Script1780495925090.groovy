@@ -47,7 +47,6 @@ WebUI.click(findTestObject('Page_- GiPM/span_CRUD manajemen user  role - 30'))
 
 WebUI.click(findTestObject('Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13'))
 
-WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_1'), '5')
 
 WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_3'), '120')
 

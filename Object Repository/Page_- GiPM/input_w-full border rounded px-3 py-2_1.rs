@@ -7,15 +7,15 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@value = 'Sistem Manajemen Proyek Test Berbasis App']</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>[value=&quot;Sistem\ Manajemen\ Proyek\ Test\ Berbasis\ App&quot;]</value>
+         <value>//*[@value = 'Sistem Informasi Desa X']</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@type = 'text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[value=&quot;Sistem\ Informasi\ Desa\ X&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f60e8cdd-a1a8-430a-9b97-d3131be7ef3e</webElementGuid>
+      <webElementGuid>64f15f9e-e3d3-483b-a3d1-6db3d8a2837f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>82d116ce-7664-4e09-bc87-171c121d6c05</webElementGuid>
+      <webElementGuid>957ad85d-774f-4e4a-9c0c-a1d31f4951fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,39 +49,39 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full border rounded px-3 py-2</value>
-      <webElementGuid>ea3181a3-07d3-4abd-a0ed-ee8d44041224</webElementGuid>
+      <webElementGuid>b97ad825-92ef-4fb1-9f5d-6714f5566ce8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Sistem Manajemen Proyek Test Berbasis App</value>
-      <webElementGuid>9d0d5c9f-ace9-4271-9383-b2dc9d4e1130</webElementGuid>
+      <value>Sistem Informasi Desa X</value>
+      <webElementGuid>fceadf2f-12eb-42bc-b83b-c6f332d51afc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-604c439b1aa289f4f09e90507129bccf</value>
-      <webElementGuid>7dfcd12f-5cae-47e9-abd3-6634024df64b</webElementGuid>
+      <value>md5.v1-4d79f36251482bfed15c6478df4011e3</value>
+      <webElementGuid>d16bd16d-37b1-40c3-b9fb-e65ab6fdf10b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@value = 'Sistem Manajemen Proyek Test Berbasis App']</value>
-      <webElementGuid>09d9ae86-1f53-4449-8437-87aab0e1f1ea</webElementGuid>
+      <value>//*[@value = 'Sistem Informasi Desa X']</value>
+      <webElementGuid>38666e8e-1af2-44fb-aba8-36058068d5cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@value = 'Sistem Manajemen Proyek Test Berbasis App']</value>
-      <webElementGuid>2d93b09a-015c-4f32-9c27-74c30be1da41</webElementGuid>
+      <value>//*[@value = 'Sistem Informasi Desa X']</value>
+      <webElementGuid>f2d259f7-78bf-4d8f-b5f3-1f4a3b9612be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>727fd109-7df4-4481-a33d-c798e186d843</webElementGuid>
+      <webElementGuid>da001259-944e-4ab5-89b9-41638166dac2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

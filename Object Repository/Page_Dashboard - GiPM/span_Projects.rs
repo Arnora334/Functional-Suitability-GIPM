@@ -10,12 +10,12 @@
          <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//span</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/projects&quot;] span</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'Projects' or . = 'Projects')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/projects&quot;] span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>74945f17-447f-4088-9ae3-9d210603ad5a</webElementGuid>
+      <webElementGuid>f192454b-6603-49a6-bbae-0b4db8d8ebb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Projects</value>
-      <webElementGuid>c869e560-e15e-471c-979d-8acc2ccd4a1e</webElementGuid>
+      <webElementGuid>0b7c7e45-4cd4-4d71-a4cf-efb845d1a7e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-e3b99a0aa3f13f953202aebd5187f5e3</value>
-      <webElementGuid>0ada627b-f2d0-4231-b222-4a3076bda0b1</webElementGuid>
+      <webElementGuid>a4a4b56d-60a5-46aa-9421-913bb3c527c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//span</value>
-      <webElementGuid>8f0034aa-66e6-4126-a68c-b05d9c27bb97</webElementGuid>
+      <webElementGuid>b881b8be-f226-4e69-9a0c-1b205bf3a31d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/projects']//span</value>
-      <webElementGuid>b0d7744e-4b68-4129-8e3a-53f79eac9caa</webElementGuid>
+      <webElementGuid>e5e9612b-96f8-459b-825a-4cb9d0d8aa75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,6 +73,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Projects' or . = 'Projects')]</value>
-      <webElementGuid>3707d8a1-88b2-43a9-9d90-63268d43038b</webElementGuid>
+      <webElementGuid>6a7f8778-6190-4ae5-9071-93514e97d472</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -10,12 +10,12 @@
          <value>//*[@type = 'submit']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[type=&quot;submit&quot;]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'submit' and (text() = 'Update Project' or . = 'Update Project')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[type=&quot;submit&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>31032ead-26c2-4c68-94a9-91662fa8a3ee</webElementGuid>
+      <webElementGuid>3dc0d470-c84d-4513-8aab-110c00d897fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>57edf2ea-5c83-4afa-8db6-3301349a7d07</webElementGuid>
+      <webElementGuid>def2f6eb-e5de-4e8d-96cc-30775bf2d1fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700</value>
-      <webElementGuid>a75294c5-dc06-457a-836e-0c0183b6c659</webElementGuid>
+      <webElementGuid>4ab9b318-3632-4019-8ff8-1b556ee6dd69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Update Project</value>
-      <webElementGuid>52446bba-4d72-484f-be03-8ccc0b5314d6</webElementGuid>
+      <webElementGuid>a796f227-e3ce-4885-991e-8ed9871d8c12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-9079020a2e38f5631afdd3ace81c44b3</value>
-      <webElementGuid>0ae3f686-2b91-46de-8cce-5e0a2bf47c16</webElementGuid>
+      <webElementGuid>6830e198-ae2b-4b65-bd58-fc9cb580c350</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@type = 'submit']</value>
-      <webElementGuid>b559d80f-aaf3-4423-80e0-2e5679fc35d0</webElementGuid>
+      <webElementGuid>d85148e3-8b2f-4b9b-b14d-f4a2e3d59979</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@type = 'submit']</value>
-      <webElementGuid>a31f8923-e1b0-4c16-9e7e-58aa063fc7ec</webElementGuid>
+      <webElementGuid>309fd537-cb95-4af5-bf2f-1478f8399933</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Update Project' or . = 'Update Project')]</value>
-      <webElementGuid>8ba584ef-f8d1-4fbc-a0f8-1393c66a4a06</webElementGuid>
+      <webElementGuid>09df15f9-4bca-4835-84e5-91209a3c8141</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
