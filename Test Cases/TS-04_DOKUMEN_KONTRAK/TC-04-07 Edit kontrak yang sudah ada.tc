@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04-07 Edit kontrak yang sudah ada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd258fde-fcb4-429e-8721-95e431611965</testCaseGuid>
+</TestCaseEntity>

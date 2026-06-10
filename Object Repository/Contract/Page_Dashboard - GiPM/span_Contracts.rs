@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a00fe89d-8eb8-414f-a48e-1834ff6a0aab</webElementGuid>
+      <webElementGuid>719b2481-06ca-4e0a-b194-95342a87ca90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Contracts</value>
-      <webElementGuid>eb386281-680d-43ac-b06a-30b8d8c48ed6</webElementGuid>
+      <webElementGuid>3d3dbafb-c60c-4be0-b910-ac73a9782247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-b226ec8010e2efb4b290b8c03a38926d</value>
-      <webElementGuid>04b45e0c-c58e-460a-82fd-d23451ddb5d6</webElementGuid>
+      <webElementGuid>c7ef5b24-9791-4691-a105-d81fa5bc19ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/contracts']//span</value>
-      <webElementGuid>0f9b55d1-2ba8-4d2a-8de7-e6a3b757dd24</webElementGuid>
+      <webElementGuid>5961e34e-2506-4dab-b096-713f766eae8e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/contracts']//span</value>
-      <webElementGuid>b305d2aa-1612-4c03-a8e4-afd2bececfc7</webElementGuid>
+      <webElementGuid>c70b2688-e35e-49b8-b8b3-d1a507dc3847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Contracts' or . = 'Contracts')]</value>
-      <webElementGuid>22b54416-28f3-4526-8798-6ccc79b57c93</webElementGuid>
+      <webElementGuid>d79545b2-16bc-456e-9444-b97855928f79</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

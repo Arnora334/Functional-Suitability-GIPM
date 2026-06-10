@@ -13,6 +13,10 @@
          <key>CSS</key>
          <value>.rounded-lg.sm\:text-lg</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0c7521cc-8ed2-4d5c-a329-a4f8fab26a5d</webElementGuid>
+      <webElementGuid>24da64c8-921c-4d8f-a7b2-3ff75bfed563</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>181e5ec0-30a7-477f-bbef-5a6c4873f9ef</webElementGuid>
+      <webElementGuid>372f35d4-2c24-48f1-be13-e960a3ab680e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center px-4 py-2 text-md sm:text-lg font-medium rounded-lg gap-2 cursor-pointer transition-colors duration-300 disabled:cursor-not-allowed text-white bg-[#db2727] hover:bg-[#991b1b] disabled:bg-[#fee2e2] </value>
-      <webElementGuid>ae0733a3-f7cd-4eb6-b8c9-d140766d38e4</webElementGuid>
+      <webElementGuid>a3a58ad8-6d81-4e89-a276-da3bfde73a52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>d4aea3a1-80d3-4757-9c09-82ff677ff795</webElementGuid>
+      <webElementGuid>371dc407-5f90-499f-aae7-92fc2a359bab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-95f7db9a973e01d131fdfc03b2c21900</value>
-      <webElementGuid>9d3593c1-fdc8-4692-9a45-79a04c892738</webElementGuid>
+      <webElementGuid>31ebb726-e9e0-480b-b8f9-b54eb8d07b16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
-      <webElementGuid>473e4e33-0edb-4532-9b55-d7fb655f8f84</webElementGuid>
+      <webElementGuid>da290f20-c336-4e74-887a-966f2317a9ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
-      <webElementGuid>956a0e22-8ef1-43ca-a4db-364ba30f2221</webElementGuid>
+      <webElementGuid>15d78499-43a9-47ab-a501-dae862734e27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>390dabdd-f32e-436d-b356-88ca5e6a3221</webElementGuid>
+      <webElementGuid>1e8a19d0-93d8-44d0-a0a1-d427bb340d51</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
