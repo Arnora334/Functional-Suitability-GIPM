@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04-04 Tambah kontrak tanpa Nomor Kontrak</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fc843ab-5400-458c-8d99-8f4157728861</testCaseGuid>
+</TestCaseEntity>
