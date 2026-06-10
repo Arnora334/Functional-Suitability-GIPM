@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04-03 Tambah kontrak tanpa memilih Project</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8bdc60d-423b-4935-9daa-2ec0aefcf096</testCaseGuid>
+</TestCaseEntity>
