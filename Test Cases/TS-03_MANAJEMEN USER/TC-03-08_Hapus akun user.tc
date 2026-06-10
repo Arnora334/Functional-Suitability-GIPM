@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-03-08_Hapus akun user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73f0df8a-dcea-48f6-85c5-bdb6b8dd0de4</testCaseGuid>
+</TestCaseEntity>
