@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_border rounded px-3 py-2 w-full_1</name>
+   <tag></tag>
+   <elementGuidId>cccbd359-8c24-42e7-80bc-54ea72c7caf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@type = 'datetime-local']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[type=&quot;datetime-local&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>input[type=&quot;datetime-local&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9faf365e-8944-4b6b-b6eb-aefe42be88d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>datetime-local</value>
+      <webElementGuid>f7f9081d-abd8-4719-b5c2-22270272675f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border rounded px-3 py-2 w-full</value>
+      <webElementGuid>f84878a1-23a3-413c-8099-2fd638f4600f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f7b63078ee72f86ff5bd43f6606fc475</value>
+      <webElementGuid>10df4381-bf89-4c18-973c-299ce0519ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@type = 'datetime-local']</value>
+      <webElementGuid>79e5fc79-cbb0-44fd-bda5-677d62833267</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@type = 'datetime-local']</value>
+      <webElementGuid>bbe1f20a-50bf-40c5-b16e-9ec3f914c222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'datetime-local']</value>
+      <webElementGuid>ac897e63-5f37-465a-a3b1-c43ac592da27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

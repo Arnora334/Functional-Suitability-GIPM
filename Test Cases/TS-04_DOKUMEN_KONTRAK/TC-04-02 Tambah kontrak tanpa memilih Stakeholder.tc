@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04-02 Tambah kontrak tanpa memilih Stakeholder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74d64d6c-c392-4100-939b-f19374ef23c9</testCaseGuid>
+</TestCaseEntity>

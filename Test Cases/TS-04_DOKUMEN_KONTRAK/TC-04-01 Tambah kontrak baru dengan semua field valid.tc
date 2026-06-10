@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04-01 Tambah kontrak baru dengan semua field valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>592b573a-0f1f-4fb6-a14e-cb468400dec1</testCaseGuid>
+</TestCaseEntity>
