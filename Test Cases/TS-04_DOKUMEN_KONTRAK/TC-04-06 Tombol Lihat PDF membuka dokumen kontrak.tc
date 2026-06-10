@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04-06 Tombol Lihat PDF membuka dokumen kontrak</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08d80191-3fbb-48ae-af06-9da4c4e1d016</testCaseGuid>
+</TestCaseEntity>
