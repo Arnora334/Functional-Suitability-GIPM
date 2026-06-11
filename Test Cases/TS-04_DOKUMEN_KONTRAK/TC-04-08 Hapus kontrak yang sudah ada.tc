@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04-08 Hapus kontrak yang sudah ada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ad77cef-050b-4a13-af53-2ec8ed5e79ae</testCaseGuid>
+</TestCaseEntity>

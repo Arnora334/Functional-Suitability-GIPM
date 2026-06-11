@@ -59,6 +59,26 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_1_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2",
+      "brokenLocator": "//*[@value \u003d \u0027Sistem Informasi Desa Baru\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@value\u003d\u0027\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_1",
+      "brokenLocator": "//*[@value \u003d \u0027Sistem Informasi Desa X\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div/div/main/div/div/div/div/table/tbody/tr/td[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_- GiPM/input_w-full border rounded px-3 py-2_1_XPATH.png"
     }
   ]
 }

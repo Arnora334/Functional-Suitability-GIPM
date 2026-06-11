@@ -13,6 +13,10 @@
          <key>CSS</key>
          <value>[type=&quot;text&quot;]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1158e9e8-8b35-4188-aeba-a5ee1d9b42a3</webElementGuid>
+      <webElementGuid>135adb66-87c5-4d39-8697-3daf281e10f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>fc59a740-7121-4ae6-b198-e1acdd2ee4e3</webElementGuid>
+      <webElementGuid>ad04ca8d-0ddb-4159-a62d-ad98779f8ef4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,15 @@
       <name>class</name>
       <type>Main</type>
       <value>border rounded px-3 py-2 w-full</value>
-      <webElementGuid>ca1899ba-10e5-4ba1-98f2-fd10904eb6a5</webElementGuid>
+      <webElementGuid>f3a7b091-ea20-4500-a421-287d6a78be77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>KONTRAK-001</value>
+      <webElementGuid>ea54aacb-52a5-4bc8-937c-b6c542105163</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-a86b7aad82b159b198e69438a103d96a</value>
-      <webElementGuid>612a9af5-a0c5-4c3e-a6fc-a38a69c3e520</webElementGuid>
+      <webElementGuid>58b385da-3098-44d0-b85e-02733c91fa5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@type = 'text']</value>
-      <webElementGuid>96a3a6f6-e4ca-46fe-9184-feaf4972fd92</webElementGuid>
+      <webElementGuid>971e1404-b054-4291-8e78-380de55a5ad5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@type = 'text']</value>
-      <webElementGuid>8d583d6a-48c7-4d99-b90d-ac22673f1917</webElementGuid>
+      <webElementGuid>19b98836-0c5a-4d24-b235-37062914a41b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>02036902-ac87-4569-b537-6f82e8106209</webElementGuid>
+      <webElementGuid>08784e65-e2d9-4f12-8afa-ea9c5ab18ce5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

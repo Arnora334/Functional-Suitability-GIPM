@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Page_Log in - GiPM/button_Log in'))
 
 WebUI.click(findTestObject('Page_Dashboard - GiPM/a_Projects'))
 
-WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2'), 'Pengembangan sistem manajemen proyek berbasis App')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2'), 'Pengembangan sistem manajemen proyek berbasis Web')
 
 WebUI.click(findTestObject('Page_- GiPM/input_Login - 21'))
 
@@ -43,9 +43,9 @@ WebUI.click(findTestObject('Page_- GiPM/span_CRUD manajemen user  role - 30'))
 
 WebUI.click(findTestObject('Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13'))
 
-WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_1'), '5')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_2'), '05')
 
-WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_2'), 'Pengembangan sistem manajemen proyek berbasis App')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_3'), 'Pengembangan sistem manajemen proyek berbasis Web untuk monitoring tugas, tiket, dan progres proyek.')
 
 WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_3'), '120')
 
@@ -84,6 +84,6 @@ WebUI.setText(findTestObject('Page_- GiPM/input_w-full border rounded px-3 py-2_
 WebUI.click(findTestObject('Page_- GiPM/button_Simpan Project'))
 
 WebUI.verifyTextNotPresent(
-	'Pengembangan sistem manajemen proyek berbasis App',
+	'Pengembangan sistem manajemen proyek berbasis Web',
 	false
 )

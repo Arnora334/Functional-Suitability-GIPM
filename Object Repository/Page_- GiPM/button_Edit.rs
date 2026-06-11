@@ -6,23 +6,23 @@
    <elementGuidId>2e6eb061-8783-4b0f-ad63-1712ac6426ab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Edit' or . = 'Edit')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//*[(name() = 'tr') and (position() = 7)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 1)]</value>
+         <value>//*[(name() = 'tr') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (name() = 'button') and (position() = 1)]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>tr:nth-child(7) .text-white:nth-child(1)</value>
+         <value>tr:nth-child(2) button.text-white:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Edit' or . = 'Edit')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=row[name=&quot;UserTest usertest@gmail.com client Edit Hapus&quot;i] >> internal:role=button >> nth=0</value>
+         <value>internal:role=button[name=&quot;Edit&quot;i] >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a90ab31e-e7b0-4d1a-9d16-3fa43908b241</webElementGuid>
+      <webElementGuid>74de7be4-5c13-434b-bf2e-061c5b2600a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-yellow-500 text-white px-3 py-1 rounded</value>
-      <webElementGuid>23ffa927-8e2b-418c-86e3-1d7b570dc7a6</webElementGuid>
+      <webElementGuid>0a575f2c-4875-4690-a453-666624150f0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,31 +49,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Edit</value>
-      <webElementGuid>c2e2b909-5c76-4301-aced-1301f740e99e</webElementGuid>
+      <webElementGuid>5269a9bb-1729-4404-a5e5-989f8776247c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-23b68caaa71db392cebc0b41eb7a7e96</value>
-      <webElementGuid>fc9ecc79-9b37-465b-9c8c-df8f469878f0</webElementGuid>
+      <value>md5.v1-44abcc4c73dcd34dcf8add5093fe6f40</value>
+      <webElementGuid>a0708175-a0b3-4da4-82c7-a31ee59a362d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 7)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 1)]</value>
-      <webElementGuid>39825c9a-4bbb-4f68-bfcc-1d9aed0fa059</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (name() = 'button') and (position() = 1)]</value>
+      <webElementGuid>58da2d81-cc51-4eb6-83b4-0b3ee24dc7c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 7)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 1)]</value>
-      <webElementGuid>ef72da6a-b086-474b-a75a-67455c20f27b</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (name() = 'button') and (position() = 1)]</value>
+      <webElementGuid>b00e712e-d199-4455-83c3-a2e96ff2ab3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Edit' or . = 'Edit')]</value>
-      <webElementGuid>4465ff6e-666d-44cb-9c8e-19be32d0e181</webElementGuid>
+      <webElementGuid>a2bb9b3e-89ff-4158-9143-1a5712379817</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

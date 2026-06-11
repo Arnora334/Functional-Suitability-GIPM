@@ -47,27 +47,38 @@ WebUI.click(findTestObject('Page_- GiPM/span_CRUD manajemen user  role - 30'))
 
 WebUI.click(findTestObject('Page_- GiPM/span_CRUD Profil dan Identitas Desa - 13'))
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2'), 'Pengembangan sistem manajemen proyek berbasis App')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2'),
+	'Sistem Monitoring Inventaris Berbasis Web')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_2'), '05')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_2'),
+	'10')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_3'), 'Pengembangan sistem manajemen proyek berbasis App untuk monitoring tugas, tiket, dan progres proyek.')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_3'),
+	'Aplikasi untuk memantau stok barang, pencatatan masuk keluar barang, dan laporan inventaris secara real-time.')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_4'), '120')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_4'),
+	'180')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_5'), '8')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_5'),
+	'12')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_7'), '500')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_7'),
+	'750')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_10'), '15000000')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_10'),
+	'25000000')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_9'), '300')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_9'),
+	'450')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_13'), '5000000')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_13'),
+	'8000000')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_14'), '120')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_14'),
+	'200')
 
-WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_15'), '50000')
+WebUI.setText(findTestObject('Project/Page_- GiPM/input_w-full border rounded px-3 py-2_15'),
+	'75000')
 
 WebUI.click(findTestObject('Project/Page_- GiPM/button_Simpan Project'))
 
