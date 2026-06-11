@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05-01_Menampilkan daftar fitur dalam board</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c96d04b4-de18-47b1-93ec-34f4c1f0c829</testCaseGuid>
+</TestCaseEntity>
