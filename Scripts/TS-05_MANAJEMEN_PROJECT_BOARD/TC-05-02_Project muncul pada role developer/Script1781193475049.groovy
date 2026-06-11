@@ -21,9 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://gipm.destroidmous.my.id/login')
 
-WebUI.setText(findTestObject('Page_Log in - GiPM/input_Email'), 'ArnorUser@gmail.com')
+WebUI.setText(findTestObject('Page_Log in - GiPM/input_Email'), 'ArnorDev@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Page_Log in - GiPM/input_Password'), 'z5TAnfWOweQ6L+kcHRRLPw==')
+WebUI.setEncryptedText(findTestObject('Page_Log in - GiPM/input_Password'), 'XJjHRq1O5tG3K9uskNhPfg==')
 
-WebUI.click(findTestObject('Page_Log in - GiPM/button_Log in'))
+WebUI.click(findTestObject('Project/Page_Log in - GiPM/button_Log in'))
+
+WebUI.switchToWindowTitle('Dashboard - GiPM')
+
+WebUI.switchToWindowTitle('Dashboard - GiPM')
+
+WebUI.click(findTestObject('Project Board/Page_Dashboard - GiPM/a_Project Board'))
 

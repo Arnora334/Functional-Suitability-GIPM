@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05-03_Project muncul pada role client</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7f36a8a-96e7-40dc-abb7-a911a31cc920</testCaseGuid>
+</TestCaseEntity>

@@ -25,5 +25,7 @@ WebUI.setText(findTestObject('Page_Log in - GiPM/input_Email'), 'ArnorUser@gmail
 
 WebUI.setEncryptedText(findTestObject('Page_Log in - GiPM/input_Password'), 'z5TAnfWOweQ6L+kcHRRLPw==')
 
-WebUI.click(findTestObject('Page_Log in - GiPM/button_Log in'))
+WebUI.click(findTestObject('Project/Page_Log in - GiPM/button_Log in'))
+
+WebUI.click(findTestObject('Project Board/Page_Dashboard - GiPM/a_Project Board'))
 
