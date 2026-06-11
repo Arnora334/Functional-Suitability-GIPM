@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05-04_Tambah fitur baru ke project board</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25c56bfd-0414-46e7-9cc1-2ffc2e549fe9</testCaseGuid>
+</TestCaseEntity>
