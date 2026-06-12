@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Project Board</name>
+   <name>button_Simpan</name>
    <tag></tag>
-   <elementGuidId>a87e5601-ed25-4331-a26c-b013b46e37b8</elementGuidId>
+   <elementGuidId>0b6d1e85-f098-4aaf-871f-92f8986945c1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'https://gipm.destroidmous.my.id/project-board']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (@type = 'button')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/project-board&quot;]</value>
+         <value>.text-white[type=&quot;button&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Project Board&quot;i]</value>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,64 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>bbb3e63a-d7c4-495c-8d48-425b7106d62f</webElementGuid>
+      <value>button</value>
+      <webElementGuid>cd9da010-d15a-43f0-a141-ba303badc037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f3b0878-42c8-4e1b-b863-54bb6504ca5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>inline-flex items-center text-sm font-regular leading-5 transition duration-300 ease-in-out focus:outline-none text-gray-500 hover:text-gray-800 focus:text-gray-700flex items-center justify-between w-full pt-1 pb-1 text-sm rounded-sm 
-                    text-gray-500 hover:text-gray-800 hover:bg-gray-200</value>
-      <webElementGuid>60b2cfa7-2758-4c6f-842b-3c8c8fe0d98c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>https://gipm.destroidmous.my.id/project-board</value>
-      <webElementGuid>19e088fe-e705-4e23-a92b-e541df0c7817</webElementGuid>
+      <value>bg-green-600 text-white px-4 py-2</value>
+      <webElementGuid>eba80faa-9c80-47a4-9d12-13801807ebba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Project Board</value>
-      <webElementGuid>7f65ef19-4da4-48b1-8f90-8b7afe275935</webElementGuid>
+      <value>Simpan</value>
+      <webElementGuid>7a54a69d-7c6e-4ef7-aad6-55bda2bee4f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-233ab41b1868692fec4bc6398a4d6278</value>
-      <webElementGuid>7b77e5d6-995b-48f4-aa54-608abd0c7b6e</webElementGuid>
+      <value>md5.v1-97621fb7c35872bc4abb6807613c3684</value>
+      <webElementGuid>8bf320e0-1d65-407c-9caa-17eb121112db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'https://gipm.destroidmous.my.id/project-board']</value>
-      <webElementGuid>96baa6f2-273c-4498-b7bb-bbb696d85b3c</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (@type = 'button')]</value>
+      <webElementGuid>bb350094-a0c9-443b-a8c8-f15260e142b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'https://gipm.destroidmous.my.id/project-board']</value>
-      <webElementGuid>dc28c9c0-6c7f-4768-85c8-bf281e26bbc7</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (@type = 'button')]</value>
+      <webElementGuid>855078d6-2ca7-4281-93ca-d6680e19c9d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://gipm.destroidmous.my.id/project-board' and (text() = 'Project Board' or . = 'Project Board')]</value>
-      <webElementGuid>af22c03b-a54b-4506-a3db-8a4321fcfa34</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>9ca26646-a50d-4d2d-9feb-52fd01db5d51</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

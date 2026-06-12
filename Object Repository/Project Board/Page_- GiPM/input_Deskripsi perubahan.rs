@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email</name>
+   <name>input_Deskripsi perubahan</name>
    <tag></tag>
-   <elementGuidId>1ac09d42-c7c6-46b3-b40e-a654ac67273f</elementGuidId>
+   <elementGuidId>dbb78b00-346c-4c98-b61e-16d492406ce9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'email']</value>
+         <value>//*[@placeholder = 'Deskripsi perubahan']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#email</value>
+         <value>[placeholder=&quot;Deskripsi\ perubahan&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Email&quot;i</value>
+         <value>internal:attr=[placeholder=&quot;Deskripsi perubahan&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,83 +29,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fec2497b-9d44-4344-97b0-990e9e1899cc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>5a1115ee-5287-4485-8ffc-51a0efcb9cb5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>2bedb489-b22d-41ec-8fac-08b616b9b336</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>d3c4bec1-5d5a-4b59-b41e-57f338895177</webElementGuid>
+      <webElementGuid>5a92cab1-793b-4d05-ae69-94592e6ed488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>2591c930-93d6-4cf2-a66d-a0bf3c9a9252</webElementGuid>
+      <value>text</value>
+      <webElementGuid>299b18fd-8184-4e25-83d9-da819230fb47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Deskripsi perubahan</value>
+      <webElementGuid>0810ef27-1da9-4abd-86f5-e550f60e155a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>
-                w-full rounded-md border-gray-300 shadow-sm 
-                focus:border-[#db2727] focus:ring-[#db2727]
-                py-3 px-3 
-                py-3 px-3 mt-1 block w-full
-            </value>
-      <webElementGuid>e545e690-1696-45d4-9ea5-1e9dc1071b09</webElementGuid>
+      <value>border p-2 col-span-2</value>
+      <webElementGuid>91220c62-acb8-4573-9deb-778ea35fce99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-5b9ce64e1b01ab27ccfccd2252edf06f</value>
-      <webElementGuid>a716974a-c852-4e84-97b9-ed4cdfb1d674</webElementGuid>
+      <value>md5.v1-58ab0d2948cb42d5318c3ef7e994a995</value>
+      <webElementGuid>a9d630eb-0833-4212-bc5f-221f0209d330</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'email']</value>
-      <webElementGuid>d6f856de-93af-43be-866b-b58c79ceeece</webElementGuid>
+      <value>//*[@placeholder = 'Deskripsi perubahan']</value>
+      <webElementGuid>fbb7aa9f-ea3e-4193-a76f-940dd96ef617</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'email']</value>
-      <webElementGuid>048825cc-5ea1-4044-872b-1eb2abc064f7</webElementGuid>
+      <value>//*[@placeholder = 'Deskripsi perubahan']</value>
+      <webElementGuid>2c8f47b4-9640-4143-b9c0-64dcd63f615a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'email' and @name = 'email' and @type = 'email']</value>
-      <webElementGuid>e1ad432f-26b0-4d14-bf7d-ef25d57e6ba6</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Deskripsi perubahan']</value>
+      <webElementGuid>a81d98b8-54bb-4574-8981-23aefe67abc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

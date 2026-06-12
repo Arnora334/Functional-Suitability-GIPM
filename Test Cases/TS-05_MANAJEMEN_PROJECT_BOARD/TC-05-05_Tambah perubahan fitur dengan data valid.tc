@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05-05_Tambah perubahan fitur dengan data valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20fadbf3-d551-4a6e-b3ca-e412bcb8c44e</testCaseGuid>
+</TestCaseEntity>
