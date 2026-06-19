@@ -67,5 +67,7 @@ WebUI.setText(waktu, today)
 	
 WebUI.click(findTestObject('Project Board/Page_- GiPM/button_Tambah Perubahan'))
 	
+WebUI.verifyTextPresent('Menambahkan validasi password minimal 8 karakter', false)
+
 
 
