@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06-03_Tambah tiket tanpa judul</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff5aa775-1c28-4c62-b24a-408edaa2d546</testCaseGuid>
+</TestCaseEntity>
