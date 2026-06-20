@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06-05_PM melakukan approve tiket (terima)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>189e6b6e-b0a4-4394-afc4-f4b992174dda</testCaseGuid>
+</TestCaseEntity>
