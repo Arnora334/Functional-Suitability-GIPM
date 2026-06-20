@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tickets</name>
+   <tag></tag>
+   <elementGuidId>36752a16-765e-4d4d-9c45-71368abf6079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'https://gipm.destroidmous.my.id/tickets']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/tickets&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d774286f-62c5-4e3a-881e-bce061f19e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center text-sm font-regular leading-5 transition duration-300 ease-in-out focus:outline-none text-[#db2727] focus:border-[#991b1b]flex items-center justify-between w-full pt-1 pb-1 text-sm rounded-sm 
+                    text-[#db2727] font-semibold</value>
+      <webElementGuid>aab106da-9f70-469f-a879-bd2d961577a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://gipm.destroidmous.my.id/tickets</value>
+      <webElementGuid>93152486-a393-41c2-9810-8db905c890b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tickets</value>
+      <webElementGuid>b05ca249-5f0b-401d-87cd-9593a8196450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-080bd176444a857ab54e610e2dfe83b2</value>
+      <webElementGuid>efb71387-5ac8-4c55-9dc5-3fcc3d013844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/tickets']</value>
+      <webElementGuid>fae93725-eec2-4f2f-8092-3bb76894333c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/tickets']</value>
+      <webElementGuid>badc1cf8-e7d4-4fff-914f-59d05e4ebad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://gipm.destroidmous.my.id/tickets' and (text() = 'Tickets' or . = 'Tickets')]</value>
+      <webElementGuid>956ca555-37ee-49e7-88c2-b6d816bfc977</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

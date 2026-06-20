@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_border rounded px-3 py-2 w-full</name>
+   <tag></tag>
+   <elementGuidId>33fe3874-2b2d-4dfa-9ebd-ed5a4fdc78db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>5577daf6-ed7c-40e0-817b-bb084573636b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border rounded px-3 py-2 w-full</value>
+      <webElementGuid>328f78cf-88af-4641-ba88-1e7b481a8c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5a938f125518f76798d64b825f293547</value>
+      <webElementGuid>9fe999b0-06a4-4240-a99f-7aadd64c51fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>fdca8355-44ed-4bfe-b710-d3e86a6da713</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>f26dfbbd-cb92-439e-8188-1d14bfe317c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

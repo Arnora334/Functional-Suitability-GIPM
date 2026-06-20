@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Project -Sistem Monitoring Inventar</name>
+   <tag></tag>
+   <elementGuidId>eafbf46a-4e48-4a34-b877-2c0f32deabc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>99171667-cba6-4ba5-8ec7-3f5c360d8a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full border rounded px-3 py-2</value>
+      <webElementGuid>6dccacea-2b1d-4078-bc31-010aec160499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Project --Sistem Monitoring Inventaris Berbasis Web</value>
+      <webElementGuid>235fefc0-3e99-4840-a23a-32fc2cf0acb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b83b0f05aca55bb078d925bdbdb92fe3</value>
+      <webElementGuid>bbbd9ee1-38a3-4565-88f2-f2695dfae459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ed882d49-1205-4d94-833c-68bc888f93e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>52f55057-6a81-4765-bdac-062e05772f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '-- Pilih Project --Sistem Monitoring Inventaris Berbasis Web' or . = '-- Pilih Project --Sistem Monitoring Inventaris Berbasis Web')]</value>
+      <webElementGuid>c54501f3-0f6e-42e3-bdd6-8f853e24a81a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
