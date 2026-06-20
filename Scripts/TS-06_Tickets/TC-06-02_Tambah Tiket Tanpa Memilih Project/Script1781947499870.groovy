@@ -38,5 +38,5 @@ WebUI.setText(findTestObject('Tickets/Page_- GiPM/textarea_border rounded px-3 p
 
 WebUI.click(findTestObject('Tickets/Page_- GiPM/button_Tambah Tiket'))
 
-WebUI.verifyTextPresent('Penambahan Fitur Remember Me', false)
+WebUI.verifyTextPresent('Penambahan Fitur Lupa Kata  Sandi', false)
 
