@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06-01_Tambah Tiket dengan Data Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>542f72e1-b5e2-402c-bb1f-0c0c92c0ccdf</testCaseGuid>
+</TestCaseEntity>
