@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06-02_Tambah Tiket Tanpa Memilih Project</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0df99cb-f92a-403c-a225-d214f625defd</testCaseGuid>
+</TestCaseEntity>
