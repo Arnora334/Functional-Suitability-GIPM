@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05-08_Tambah perubahan tanpa ΔFP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fbc46bb-c268-4493-ba90-2bf9a777a4b9</testCaseGuid>
+</TestCaseEntity>
