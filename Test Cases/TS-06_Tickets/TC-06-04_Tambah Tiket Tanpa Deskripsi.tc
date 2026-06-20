@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06-04_Tambah Tiket Tanpa Deskripsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5eea4d8-1cc1-4f62-aaa0-8bb685cfb314</testCaseGuid>
+</TestCaseEntity>
