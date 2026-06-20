@@ -39,5 +39,9 @@ WebUI.setText(findTestObject('Tickets/Page_- GiPM/textarea_border rounded px-3 p
 
 WebUI.click(findTestObject('Tickets/Page_- GiPM/button_Tambah Tiket'))
 
-WebUI.verifyTextNotPresent('Sistem memerlukan fitur lupa ata sandi supaya bisa mereset ulang sandi.', false)
+WebUI.delay(2)
+
+WebUI.refresh()
+
+WebUI.verifyTextNotPresent('supaya bisa mereset ulang sandi.', false)
 
