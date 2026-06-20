@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-06-06_PM menolak tiket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3520eb58-7b7f-4e20-a7eb-538f3dd0df83</testCaseGuid>
+</TestCaseEntity>

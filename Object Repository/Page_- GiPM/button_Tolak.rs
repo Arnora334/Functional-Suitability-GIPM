@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tolak</name>
+   <tag></tag>
+   <elementGuidId>67610a70-6e3c-4f69-9a9b-082410d568ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded-lg.sm\:text-lg.text-md.text-xs.border-none</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' text-md ') and contains(concat(' ', normalize-space(@class), ' '), ' text-xs ') and contains(concat(' ', normalize-space(@class), ' '), ' border-none ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b28935a8-28e1-4d56-885f-d9fefa1e67da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ad60dd94-f8e5-4fb9-9f91-b638f149b1d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center px-4 py-2 text-md sm:text-lg font-medium rounded-lg gap-2 cursor-pointer transition-colors duration-300 disabled:cursor-not-allowed text-white bg-[#db2727] hover:bg-[#991b1b] disabled:bg-[#fee2e2] flex-1 text-xs py-2 justify-center bg-red-600 hover:bg-red-700 border-none</value>
+      <webElementGuid>0c567187-1fb2-4366-8944-8f28b8398d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tolak</value>
+      <webElementGuid>6b76137c-90b8-46fa-904f-0f7a73773987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cadc7599aeed360b5f5bc9325e20ec8f</value>
+      <webElementGuid>93425b52-bd99-4077-91ab-fa7d7ca6de48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' text-md ') and contains(concat(' ', normalize-space(@class), ' '), ' text-xs ') and contains(concat(' ', normalize-space(@class), ' '), ' border-none ')]</value>
+      <webElementGuid>3f029a3c-9114-4fd4-b1b7-1f55f4a5ec5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' text-md ') and contains(concat(' ', normalize-space(@class), ' '), ' text-xs ') and contains(concat(' ', normalize-space(@class), ' '), ' border-none ')]</value>
+      <webElementGuid>ab1eb0a9-d31b-45c8-9342-cd57ca381c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tolak' or . = 'Tolak')]</value>
+      <webElementGuid>f1e280b5-9ef0-46b1-af55-95bbca87f631</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
