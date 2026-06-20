@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Hapus</name>
+   <name>button_Simpan</name>
    <tag></tag>
-   <elementGuidId>7575b468-078d-4054-8de6-79015380ef3b</elementGuidId>
+   <elementGuidId>f14fe084-f187-4c9f-b048-b2cf2ce6f0db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-center ') and (position() = 5)]//button</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Hapus' or . = 'Hapus')]</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (@type = 'button')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.text-center:nth-child(5) button</value>
+         <value>.text-white[type=&quot;button&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Hapus&quot;i] >> nth=1</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,54 +23,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7623a1f9-134c-4a88-823c-5f1d597960a2</webElementGuid>
+      <webElementGuid>c0df40c6-a3c2-49ce-b00b-48b7cdd2deda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8b65829e-d9b5-427b-a64e-c8da43ada964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-red-600 hover:underline</value>
-      <webElementGuid>01771c28-069f-49ea-905e-5b78bebb4ea3</webElementGuid>
+      <value>bg-green-600 text-white px-4 py-2</value>
+      <webElementGuid>2fbae23a-4d6c-4b3f-95a1-a68790811e9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Hapus</value>
-      <webElementGuid>13bb66fe-9625-4384-9a14-29e75c8dc910</webElementGuid>
+      <value>Simpan</value>
+      <webElementGuid>a65ed04a-d9ff-4670-b23c-e40f13dfccf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-105319b3fc9f398e8cd252483a706229</value>
-      <webElementGuid>f1a970b9-3a63-4777-b61d-41a26de7f30c</webElementGuid>
+      <value>md5.v1-97621fb7c35872bc4abb6807613c3684</value>
+      <webElementGuid>8ca74abc-1883-4785-aa46-132c72f9432f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-center ') and (position() = 5)]//button</value>
-      <webElementGuid>a4b6e72e-f2c2-45ce-8072-417997e4f86b</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (@type = 'button')]</value>
+      <webElementGuid>635740e6-32ba-4fb2-b1f6-ea6ef5cacdb8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-center ') and (position() = 5)]//button</value>
-      <webElementGuid>258c0e7c-0d97-434e-aa91-5d6b4f67ac7a</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (@type = 'button')]</value>
+      <webElementGuid>ea374a72-3309-498f-9dad-dda9c191d62e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Hapus' or . = 'Hapus')]</value>
-      <webElementGuid>459a1bed-2f14-41ab-8faa-8d24a67559f8</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>ff542011-56fd-4da3-9d62-60dc9d7a89cc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

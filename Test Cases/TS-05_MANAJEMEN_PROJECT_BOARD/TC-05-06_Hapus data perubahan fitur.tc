@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05-06_Hapus data perubahan fitur</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e618fb4-1774-44eb-a51c-afdb0eee2fad</testCaseGuid>
+</TestCaseEntity>

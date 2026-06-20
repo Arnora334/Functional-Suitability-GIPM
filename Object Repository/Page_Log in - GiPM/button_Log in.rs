@@ -10,12 +10,12 @@
          <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>.rounded-lg.sm\:text-lg</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded-lg.sm\:text-lg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3a86212b-1111-4821-a001-7050c7f8c9a9</webElementGuid>
+      <webElementGuid>264c16da-6fee-4ee6-8d95-cbc5ebc5cad6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d3a1f888-0111-4c3e-8081-7ca2e35c22b4</webElementGuid>
+      <webElementGuid>a6c93b62-d1f1-43f9-9e1d-0423e146e464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center px-4 py-2 text-md sm:text-lg font-medium rounded-lg gap-2 cursor-pointer transition-colors duration-300 disabled:cursor-not-allowed text-white bg-[#db2727] hover:bg-[#991b1b] disabled:bg-[#fee2e2] </value>
-      <webElementGuid>cdef4315-93de-45e4-963d-75823107eaa2</webElementGuid>
+      <webElementGuid>a0618f9d-92be-4ac0-b973-830a8a9b2ea6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>bac2e99f-9c16-4529-84ee-96974305b228</webElementGuid>
+      <webElementGuid>c9f4e552-f214-4dff-a2bc-75fab037497a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-95f7db9a973e01d131fdfc03b2c21900</value>
-      <webElementGuid>5727cda7-49c7-426d-aeed-52e9af23f09b</webElementGuid>
+      <webElementGuid>f9b0b55f-93c4-49d7-a4da-3d93df6f06b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
-      <webElementGuid>885beee5-380b-4eb0-931c-9dbae889df4a</webElementGuid>
+      <webElementGuid>eae97091-f06a-4204-ba1d-0823f141ce0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
-      <webElementGuid>f9e92342-bb55-4c36-8c08-a8acfc4e73dd</webElementGuid>
+      <webElementGuid>dd09b09e-aff3-435a-9141-d453c9c9fec4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>9fdd1836-4f7a-4803-bc3f-cdac60d163fa</webElementGuid>
+      <webElementGuid>70d6f706-9175-429d-bdcc-d02e7329f4d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
