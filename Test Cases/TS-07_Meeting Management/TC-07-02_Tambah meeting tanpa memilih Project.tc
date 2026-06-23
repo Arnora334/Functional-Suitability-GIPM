@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07-02_Tambah meeting tanpa memilih Project</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c7f5d81-aee5-4e31-a416-3719f9671aa6</testCaseGuid>
+</TestCaseEntity>
