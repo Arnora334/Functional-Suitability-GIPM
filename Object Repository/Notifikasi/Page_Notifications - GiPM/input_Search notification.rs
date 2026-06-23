@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_1</name>
+   <name>input_Search notification</name>
    <tag></tag>
-   <elementGuidId>ba5cd182-13a9-408e-85a1-e8ed3bbcb8f3</elementGuidId>
+   <elementGuidId>e0115db7-e23f-4416-9dd6-d8f34adcf703</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'password']</value>
+         <value>//*[@value = '']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>[value=&quot;&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,39 +23,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>48e520f9-af59-4ecb-acd4-9c3524f953a6</webElementGuid>
+      <webElementGuid>e46c8444-a379-45cd-a4c5-994401f6e646</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>7e3badb4-d6f0-4d5e-a380-05f7bacd7123</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>e9a0f7c4-4e84-4172-b9d8-d5062903e0d3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>a88ba8be-289d-4a76-b67c-12b787d8d9f7</webElementGuid>
+      <value>Search notification...</value>
+      <webElementGuid>3425656f-bcea-47ae-ae9c-ac51cb23bb9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>b7164804-30cd-4d4e-b005-5eb08369ea36</webElementGuid>
+      <value>text</value>
+      <webElementGuid>fa1a43d4-bfab-47a1-b132-96a1c912fc99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,40 +50,40 @@
                 w-full rounded-md border-gray-300 shadow-sm 
                 focus:border-[#db2727] focus:ring-[#db2727]
                 py-3 px-3 
-                py-3 px-3 pe-10mt-1 block w-full
+                w-full sm:max-w-sm
             </value>
-      <webElementGuid>7ee9bf65-1355-471a-9183-8b63a8fddda3</webElementGuid>
+      <webElementGuid>1eec0690-76f3-4f27-a778-ea120eec71b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9e9af563cb0d5d92f852b4749a4d17cd</value>
-      <webElementGuid>096877e2-3003-4d1f-ae39-5deee390ffe6</webElementGuid>
+      <value>md5.v1-5b7fb5260e2ff98428091c903cd3efee</value>
+      <webElementGuid>76deb241-cc37-4e3e-9ae4-bfd541b9b675</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'password']</value>
-      <webElementGuid>40ba87a6-fb7b-4ff6-bd67-f290d6fb3df7</webElementGuid>
+      <value>//*[@value = '']</value>
+      <webElementGuid>60c3e4a4-06de-4605-b645-bc12e7618350</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'password']</value>
-      <webElementGuid>6d2262b0-cb28-4a7d-a205-989003192d4b</webElementGuid>
+      <value>//*[@value = '']</value>
+      <webElementGuid>62ea6a26-4fec-4e14-9255-8d25a95c1659</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'password' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>45441230-4f59-42ab-a962-da51f2333045</webElementGuid>
+      <value>//input[@placeholder = 'Search notification...' and @type = 'text']</value>
+      <webElementGuid>89552947-7264-48fd-a296-2e2c4d7ae423</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
