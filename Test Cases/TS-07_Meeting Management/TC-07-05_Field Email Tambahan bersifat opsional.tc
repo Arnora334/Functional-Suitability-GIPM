@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07-05_Field Email Tambahan bersifat opsional</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3cd004a7-0c7e-4e3e-8655-237655ad65db</testCaseGuid>
+</TestCaseEntity>
