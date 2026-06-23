@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-08-05_Search notification berfungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d9fe957-5f3a-4275-827e-9da2037edf7a</testCaseGuid>
+</TestCaseEntity>
