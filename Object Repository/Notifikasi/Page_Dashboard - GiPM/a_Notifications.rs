@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Notifications</name>
+   <tag></tag>
+   <elementGuidId>a530d70e-8e3e-452e-9f27-e8552e179542</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'https://gipm.destroidmous.my.id/notifications']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/notifications&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9066a299-7751-424c-98ff-88cfe20a96f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center text-sm font-regular leading-5 transition duration-300 ease-in-out focus:outline-none text-gray-500 hover:text-gray-800 focus:text-gray-700flex items-center justify-between w-full pt-1 pb-1 text-sm rounded-sm 
+                    text-gray-500 hover:text-gray-800 hover:bg-gray-200</value>
+      <webElementGuid>2b6abda4-9b93-4c6d-abd9-d4aaec889c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://gipm.destroidmous.my.id/notifications</value>
+      <webElementGuid>297b166d-0627-4bc9-b8c2-078a0b2024bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notifications</value>
+      <webElementGuid>f980a506-cc9b-4bdb-8bc0-59af6156a47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bf0a1a1c22c3d5cc04b9c8cd33075eaf</value>
+      <webElementGuid>3ef41408-def8-4aae-a347-496843c873cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/notifications']</value>
+      <webElementGuid>c930620b-6b72-4c2f-9043-0cb587d360c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://gipm.destroidmous.my.id/notifications']</value>
+      <webElementGuid>e57946fc-69c3-4ca1-bb3c-51c306183a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://gipm.destroidmous.my.id/notifications' and (text() = 'Notifications' or . = 'Notifications')]</value>
+      <webElementGuid>95bbebc3-c7e3-4050-9dac-b9164d9647b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
