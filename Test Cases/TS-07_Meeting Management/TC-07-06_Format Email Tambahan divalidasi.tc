@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07-06_Format Email Tambahan divalidasi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a855fbb7-8e28-4ab4-8a30-c016bb52088f</testCaseGuid>
+</TestCaseEntity>
