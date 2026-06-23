@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07-04_Tambah meeting tanpa Waktu Meeting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98e56772-cee1-49e5-9056-7d7a34bd68f9</testCaseGuid>
+</TestCaseEntity>
