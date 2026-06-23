@@ -34,9 +34,10 @@ WebUI.click(findTestObject('Page_Log in - GiPM/button_Log in'))
 WebUI.click(findTestObject('Page_Dashboard - GiPM/a_Meetings'))
 
 //Pilih Project
-//WebUI.selectOptionByValue(findTestObject('Page_- GiPM/select_Pilih Project -Sistem Monitoring Inventar'), '23', false)
+WebUI.selectOptionByValue(findTestObject('Page_- GiPM/select_Pilih Project -Sistem Monitoring Inventar'), '23', false)
 
-WebUI.setText(findTestObject('Page_- GiPM/input_border rounded px-3 py-2 w-full'), 'Sprint Review')
+//Judul Meeting
+//WebUI.setText(findTestObject('Page_- GiPM/input_border rounded px-3 py-2 w-full'), 'Sprint Review')
 
 TestObject waktu = findTestObject(
 	'Page_- GiPM/input_border rounded px-3 py-2 w-full_1'

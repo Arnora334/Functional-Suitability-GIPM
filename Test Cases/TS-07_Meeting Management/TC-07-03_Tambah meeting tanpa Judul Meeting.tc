@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07-03_Tambah meeting tanpa Judul Meeting</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c379447-d4b7-4fd5-be46-17e5e06abe99</testCaseGuid>
+</TestCaseEntity>
