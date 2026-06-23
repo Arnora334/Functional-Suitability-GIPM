@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07-01_Tambah meeting baru dengan semua field valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91233853-850b-4206-bbc5-6340310c9a9f</testCaseGuid>
+</TestCaseEntity>
