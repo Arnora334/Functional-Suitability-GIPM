@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@type = 'text']</value>
+         <value>//*[@value = 'Sprint Review']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[type=&quot;text&quot;]</value>
+         <value>[value=&quot;Sprint\ Review&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>53c92674-71c1-45da-bbab-cecb047cbc91</webElementGuid>
+      <webElementGuid>037d95ee-3d4b-4cc1-a495-eecb3c8f1645</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8a1c1049-4cd4-492c-b6a2-4db385443325</webElementGuid>
+      <webElementGuid>eb66b03c-79df-4f1e-ac4a-6bf8376df903</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,31 +49,39 @@
       <name>class</name>
       <type>Main</type>
       <value>border rounded px-3 py-2 w-full</value>
-      <webElementGuid>86280318-ab00-461b-917d-4b020725f8b2</webElementGuid>
+      <webElementGuid>8a931262-e4c8-4dba-a476-330865f0ab81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sprint Review</value>
+      <webElementGuid>8f3ef472-12e5-4cf4-ba89-63de3db10d09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a86b7aad82b159b198e69438a103d96a</value>
-      <webElementGuid>2d6a2a14-2b29-42e7-b525-d35e7cdf7aca</webElementGuid>
+      <value>md5.v1-e86caf7ac483646db664fb029f1c01b3</value>
+      <webElementGuid>0c7596a5-b791-4d3c-9bec-391070353e0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@type = 'text']</value>
-      <webElementGuid>ab378c17-50d4-41a1-8098-0ce0054f11a3</webElementGuid>
+      <value>//*[@value = 'Sprint Review']</value>
+      <webElementGuid>2bd51191-a1cb-435a-b2e6-b739eb6bdb91</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@type = 'text']</value>
-      <webElementGuid>86166d0f-7a6e-4d24-b28b-0900262d887c</webElementGuid>
+      <value>//*[@value = 'Sprint Review']</value>
+      <webElementGuid>38dc9bd5-0046-453f-a3d7-0304eb9c9716</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>7720ea51-9bc2-40fc-aa1c-24e3a3d7ae6d</webElementGuid>
+      <webElementGuid>fee99548-9487-430e-8fa7-98b5c9d09cef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

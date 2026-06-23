@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Edit</name>
+   <name>button_Update Meeting</name>
    <tag></tag>
-   <elementGuidId>2e6eb061-8783-4b0f-ad63-1712ac6426ab</elementGuidId>
+   <elementGuidId>e825941a-ef91-427b-8f7a-2982e4c8e325</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[(name() = 'td') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 1)]</value>
+         <value>//*[@type = 'submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>td:nth-child(5) .text-white:nth-child(1)</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Edit' or . = 'Edit')]</value>
+         <value>[type=&quot;submit&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Edit&quot;i] >> nth=1</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,54 +23,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b472ee78-819c-4592-9d36-cace1f4b6803</webElementGuid>
+      <webElementGuid>1353322e-7bc0-4ba8-8b8b-c67479d3707e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1fec84fd-3842-476f-a810-9b4bef7c5b28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>bg-yellow-500 text-white px-3 py-1 rounded</value>
-      <webElementGuid>8a56755f-bc20-4240-b5a1-105d3f4cf9f6</webElementGuid>
+      <value>bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700</value>
+      <webElementGuid>525e9a9d-4bb4-4ea6-92be-9a6f6eb8ef5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Edit</value>
-      <webElementGuid>f421eae1-1a27-473a-88c8-c39960902d3f</webElementGuid>
+      <value>Update Meeting</value>
+      <webElementGuid>a47f07c3-e7a8-4fcb-bf40-beb1e001deb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-888a91b6c6549fbc94838f15156085b0</value>
-      <webElementGuid>2531bc94-4347-4cce-be85-3591e5f53e02</webElementGuid>
+      <value>md5.v1-9079020a2e38f5631afdd3ace81c44b3</value>
+      <webElementGuid>7cd14638-4910-4283-8160-3f533d9185f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'td') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 1)]</value>
-      <webElementGuid>dc47cb13-9ab6-4279-a685-8d5f812cdb2f</webElementGuid>
+      <value>//*[@type = 'submit']</value>
+      <webElementGuid>ff8ef47c-24f0-41b7-97ff-cb4e017121a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'td') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 1)]</value>
-      <webElementGuid>401dd3d8-91dc-4a7c-8ba7-09e6c86640b2</webElementGuid>
+      <value>//*[@type = 'submit']</value>
+      <webElementGuid>95a33b37-c85e-4ce8-98e9-0002c95febe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Edit' or . = 'Edit')]</value>
-      <webElementGuid>26c18882-fc70-46d1-a983-a34b66fca46a</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Update Meeting' or . = 'Update Meeting')]</value>
+      <webElementGuid>b99145a5-dc02-4f84-bd5c-7456593588f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

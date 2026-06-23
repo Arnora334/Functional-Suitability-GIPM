@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>336a6814-38cb-400e-8224-024edbef213f</webElementGuid>
+      <webElementGuid>3bc38b63-c886-4850-b2d2-c1bc6fd9036c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -32,7 +32,7 @@
       <type>Main</type>
       <value>inline-flex items-center text-sm font-regular leading-5 transition duration-300 ease-in-out focus:outline-none text-gray-500 hover:text-gray-800 focus:text-gray-700flex items-center justify-between w-full pt-1 pb-1 text-sm rounded-sm 
                     text-gray-500 hover:text-gray-800 hover:bg-gray-200</value>
-      <webElementGuid>1222b356-3c89-4b74-bdd2-0776e68939b2</webElementGuid>
+      <webElementGuid>fb28007b-f41b-4ced-aa37-3eb1721d1684</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://gipm.destroidmous.my.id/meetings</value>
-      <webElementGuid>128ba517-4014-4b13-9109-f46c25df3256</webElementGuid>
+      <webElementGuid>71ee6db1-e0ce-4a83-9808-2ca0d5172ccf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Meetings</value>
-      <webElementGuid>ee1e1fd2-6325-4e6f-8afd-2f59c0f316a5</webElementGuid>
+      <webElementGuid>fb023da9-7e35-42b7-a41e-c23c49e85924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-5e6e2151e9dd6c717393c2f7dbb40aa2</value>
-      <webElementGuid>4ae6f9c0-39cb-46f0-8dd4-d2f5d953499f</webElementGuid>
+      <webElementGuid>b881b0b1-1cb4-4f59-8fbe-c657c8b1b51f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/meetings']</value>
-      <webElementGuid>53f026f2-d7e8-4edb-952d-dccd6bcc51a6</webElementGuid>
+      <webElementGuid>766340ea-4a2e-41a6-b723-0bca904223ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/meetings']</value>
-      <webElementGuid>27d98ec7-795e-4cb3-87cd-70ae3a8c510c</webElementGuid>
+      <webElementGuid>5f710f4f-252f-4955-a51a-066598bc55d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,6 +80,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://gipm.destroidmous.my.id/meetings' and (text() = 'Meetings' or . = 'Meetings')]</value>
-      <webElementGuid>41efb9f8-3e50-4007-b1bd-f7a111361839</webElementGuid>
+      <webElementGuid>b9fb1a38-fc04-479d-afab-71612a5e97e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
