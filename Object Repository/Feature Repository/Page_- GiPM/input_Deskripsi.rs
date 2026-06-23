@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Deskripsi</name>
+   <tag></tag>
+   <elementGuidId>f3514b31-6374-49c2-aff7-a744984f4f05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@placeholder = 'Deskripsi']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[placeholder=&quot;Deskripsi&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>84864cce-fa49-4720-9751-0ccb49ab71b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f8128542-b2c8-4736-94f5-0a82f9d982f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Deskripsi</value>
+      <webElementGuid>2bdde5d3-c7ce-46c9-a22f-c27075d5d9f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border p-2 rounded col-span-2</value>
+      <webElementGuid>a31874c1-eaf0-4de6-b951-aa90f1f11fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cf7347a0b1e79f0af2d097318533219e</value>
+      <webElementGuid>17b3aac2-f725-41ef-9371-75784791f4f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@placeholder = 'Deskripsi']</value>
+      <webElementGuid>c301ca84-e871-44c2-92d2-dc208814c8ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@placeholder = 'Deskripsi']</value>
+      <webElementGuid>94a6aeee-ac48-4827-8e5a-323484f4e708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Deskripsi']</value>
+      <webElementGuid>a77fdde3-2e4d-4b1d-b295-d1e0a0612668</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
