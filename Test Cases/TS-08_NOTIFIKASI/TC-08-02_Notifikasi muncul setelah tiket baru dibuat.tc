@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-08-02_Notifikasi muncul setelah tiket baru dibuat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67a52e45-36da-4dc8-ba8d-69fa25c425ea</testCaseGuid>
+</TestCaseEntity>

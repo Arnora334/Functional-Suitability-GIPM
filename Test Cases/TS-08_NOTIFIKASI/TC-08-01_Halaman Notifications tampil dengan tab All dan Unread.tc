@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-08-01_Halaman Notifications tampil dengan tab All dan Unread</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0ec0f84-b5d5-4c27-9fae-ee236e493932</testCaseGuid>
+</TestCaseEntity>

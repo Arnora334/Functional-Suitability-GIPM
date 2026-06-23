@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-08-03_Notifikasi muncul setelah meeting dibuat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc7d0aa2-fb33-43d0-9169-09ea0549fae3</testCaseGuid>
+</TestCaseEntity>
