@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_border rounded px-3 py-2 w-full</name>
+   <name>select_Pilih Project -Sistem Monitoring Inventar</name>
    <tag></tag>
-   <elementGuidId>3de9c6ba-e5ed-4f6a-8ded-ab6395bfc945</elementGuidId>
+   <elementGuidId>2394fc89-19d8-4ea5-a554-cd90f099cd5d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@type = 'text']</value>
+         <value>//select</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[type=&quot;text&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'text']</value>
+         <value>select</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>input[type=&quot;text&quot;]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -32,55 +22,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>53c92674-71c1-45da-bbab-cecb047cbc91</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>8a1c1049-4cd4-492c-b6a2-4db385443325</webElementGuid>
+      <value>select</value>
+      <webElementGuid>029e1382-c0f5-43ce-bab6-14dc8c96cbe7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>border rounded px-3 py-2 w-full</value>
-      <webElementGuid>86280318-ab00-461b-917d-4b020725f8b2</webElementGuid>
+      <value>w-full border rounded px-3 py-2</value>
+      <webElementGuid>50afec34-5951-456c-ae7c-21a372321e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Project --Sistem Monitoring Inventaris Berbasis Web</value>
+      <webElementGuid>e17a875e-8ee4-43f1-990e-ff5052b91b77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a86b7aad82b159b198e69438a103d96a</value>
-      <webElementGuid>2d6a2a14-2b29-42e7-b525-d35e7cdf7aca</webElementGuid>
+      <value>md5.v1-b83b0f05aca55bb078d925bdbdb92fe3</value>
+      <webElementGuid>05fe48ed-082d-4d13-a5dd-6cb1998315c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@type = 'text']</value>
-      <webElementGuid>ab378c17-50d4-41a1-8098-0ce0054f11a3</webElementGuid>
+      <value>//select</value>
+      <webElementGuid>cbe8824c-9035-4aba-9166-88b54692605b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@type = 'text']</value>
-      <webElementGuid>86166d0f-7a6e-4d24-b28b-0900262d887c</webElementGuid>
+      <value>//select</value>
+      <webElementGuid>7e0fa81a-b64f-4e1b-89d2-33d6c5689d45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text']</value>
-      <webElementGuid>7720ea51-9bc2-40fc-aa1c-24e3a3d7ae6d</webElementGuid>
+      <value>//select[(text() = '-- Pilih Project --Sistem Monitoring Inventaris Berbasis Web' or . = '-- Pilih Project --Sistem Monitoring Inventaris Berbasis Web')]</value>
+      <webElementGuid>df216fb8-e09c-4a4b-b43b-64e83bed5ced</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_border rounded px-3 py-2 w-full</name>
+   <name>button_Tambah Meeting</name>
    <tag></tag>
-   <elementGuidId>3de9c6ba-e5ed-4f6a-8ded-ab6395bfc945</elementGuidId>
+   <elementGuidId>8e96eb02-a06b-424a-8fcb-37797e00df39</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@type = 'text']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[type=&quot;text&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'text']</value>
+         <value>.text-white</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>input[type=&quot;text&quot;]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -32,55 +22,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>53c92674-71c1-45da-bbab-cecb047cbc91</webElementGuid>
+      <value>button</value>
+      <webElementGuid>65044401-0e7d-4d70-af3a-a6903751722a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>8a1c1049-4cd4-492c-b6a2-4db385443325</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>6756b625-1759-4f12-a833-104e8ee02faa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>border rounded px-3 py-2 w-full</value>
-      <webElementGuid>86280318-ab00-461b-917d-4b020725f8b2</webElementGuid>
+      <value>bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700</value>
+      <webElementGuid>3678ec88-07b8-4e86-9f29-81459d692a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Meeting</value>
+      <webElementGuid>ccb7ec85-610f-4896-bcec-f7bb8904e9c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a86b7aad82b159b198e69438a103d96a</value>
-      <webElementGuid>2d6a2a14-2b29-42e7-b525-d35e7cdf7aca</webElementGuid>
+      <value>md5.v1-34757a40e2360126a39265d2be71668f</value>
+      <webElementGuid>8c9ad3e2-ba4c-4253-964e-d8f5c8967a87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@type = 'text']</value>
-      <webElementGuid>ab378c17-50d4-41a1-8098-0ce0054f11a3</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ')]</value>
+      <webElementGuid>fce6136a-4cc0-4e83-b15e-7dcc28e3513f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@type = 'text']</value>
-      <webElementGuid>86166d0f-7a6e-4d24-b28b-0900262d887c</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ')]</value>
+      <webElementGuid>c79594b2-4007-4028-9d86-7b62ae3d42a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text']</value>
-      <webElementGuid>7720ea51-9bc2-40fc-aa1c-24e3a3d7ae6d</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Tambah Meeting' or . = 'Tambah Meeting')]</value>
+      <webElementGuid>1e0b4c96-1453-4520-8406-ef9bd8732e88</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

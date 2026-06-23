@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_border rounded px-3 py-2 w-full</name>
+   <name>input_border rounded px-3 py-2 w-full_3</name>
    <tag></tag>
-   <elementGuidId>3de9c6ba-e5ed-4f6a-8ded-ab6395bfc945</elementGuidId>
+   <elementGuidId>01571398-0bc6-45d9-a005-29fc271c116b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@type = 'text']</value>
+         <value>//*[@value = 'client@test.com']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[type=&quot;text&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'text']</value>
+         <value>[value=&quot;client\@test\.com&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>input[type=&quot;text&quot;]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -33,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>53c92674-71c1-45da-bbab-cecb047cbc91</webElementGuid>
+      <webElementGuid>ec5ff508-5660-4c86-bf53-a307763b02ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>8a1c1049-4cd4-492c-b6a2-4db385443325</webElementGuid>
+      <value>email</value>
+      <webElementGuid>07c4fe98-6c89-41f4-80f9-72b05a36bcdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,38 +39,46 @@
       <name>class</name>
       <type>Main</type>
       <value>border rounded px-3 py-2 w-full</value>
-      <webElementGuid>86280318-ab00-461b-917d-4b020725f8b2</webElementGuid>
+      <webElementGuid>deecb2c4-f2b0-4211-af2a-f9956aa80056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>client@test.com</value>
+      <webElementGuid>ab3ba972-298b-4b75-bfe8-4050522c66d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a86b7aad82b159b198e69438a103d96a</value>
-      <webElementGuid>2d6a2a14-2b29-42e7-b525-d35e7cdf7aca</webElementGuid>
+      <value>md5.v1-6c2e3e39b9c652e97fb2a7df778e8b05</value>
+      <webElementGuid>1418655b-6a19-4ff8-9f8c-49f6d4fd65c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@type = 'text']</value>
-      <webElementGuid>ab378c17-50d4-41a1-8098-0ce0054f11a3</webElementGuid>
+      <value>//*[@value = 'client@test.com']</value>
+      <webElementGuid>d66b8a7c-76f9-4a36-a41b-34e1a19c1296</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@type = 'text']</value>
-      <webElementGuid>86166d0f-7a6e-4d24-b28b-0900262d887c</webElementGuid>
+      <value>//*[@value = 'client@test.com']</value>
+      <webElementGuid>cbfc64b4-af70-4c84-843c-4d76461b6231</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text']</value>
-      <webElementGuid>7720ea51-9bc2-40fc-aa1c-24e3a3d7ae6d</webElementGuid>
+      <value>//input[@type = 'email']</value>
+      <webElementGuid>50c57567-a7ed-40c6-94c9-2962e345e20d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

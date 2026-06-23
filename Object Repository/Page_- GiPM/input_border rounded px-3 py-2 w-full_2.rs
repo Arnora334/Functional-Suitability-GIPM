@@ -7,11 +7,15 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@type = 'datetime-local']</value>
+         <value>//*[@type = 'email']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[type=&quot;datetime-local&quot;]</value>
+         <value>[type=&quot;email&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2b1139ab-4ac1-4471-b654-626e979ba537</webElementGuid>
+      <webElementGuid>879d2e79-6b8c-410e-b5d8-f2c2ec2b722f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>datetime-local</value>
-      <webElementGuid>12af9a37-f839-42cb-af93-c6fdf7e86f37</webElementGuid>
+      <value>email</value>
+      <webElementGuid>3d7bf8c0-2ff7-44b3-be8f-1f218f63ccc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,38 +49,38 @@
       <name>class</name>
       <type>Main</type>
       <value>border rounded px-3 py-2 w-full</value>
-      <webElementGuid>d0026d30-52ed-4a37-ab58-f54bfa8ad368</webElementGuid>
+      <webElementGuid>91c091ad-fbbc-40bc-bc1a-962696cc7d79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-f7b63078ee72f86ff5bd43f6606fc475</value>
-      <webElementGuid>f470cdf6-38a1-4226-9468-200facd3310c</webElementGuid>
+      <value>md5.v1-3d008049b9d759426562f84c28519337</value>
+      <webElementGuid>c5c6908e-6008-4d0d-b813-5021115471da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@type = 'datetime-local']</value>
-      <webElementGuid>b9bea746-b09c-41c7-959c-4aeca08fdcee</webElementGuid>
+      <value>//*[@type = 'email']</value>
+      <webElementGuid>08da02f4-0990-4b18-82ad-2e6055b8164d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@type = 'datetime-local']</value>
-      <webElementGuid>903d1ca4-0cc6-452c-93fd-d0dcaede9b0c</webElementGuid>
+      <value>//*[@type = 'email']</value>
+      <webElementGuid>b14a546d-fad7-4c4a-bca9-84fac25dbf54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'datetime-local']</value>
-      <webElementGuid>fcdf626e-7b76-49a4-a771-b7da54b72123</webElementGuid>
+      <value>//input[@type = 'email']</value>
+      <webElementGuid>e9472670-cda8-4663-8223-9d0d67d2d7a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
