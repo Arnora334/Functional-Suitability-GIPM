@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07-08_Edit Meeting yang sudah ada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f05ad7a-785e-4729-86b0-10337fbd2a4d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-07-09_Hapus Meeting yang sudah ada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>880e25c9-7b8a-4e1d-9755-ec1e4b570627</testCaseGuid>
+</TestCaseEntity>
