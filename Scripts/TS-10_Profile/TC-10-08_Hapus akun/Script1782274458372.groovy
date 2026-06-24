@@ -35,13 +35,9 @@ WebUI.click(findTestObject('Profile/Page_Dashboard - GiPM/a_Profile'))
 
 WebUI.switchToWindowTitle('Profile - GiPM')
 
-WebUI.setEncryptedText(findTestObject('Profile/Page_Profile - GiPM/input_Current Password'), 'z/uldadSn79nKKsjFnA9rg==')
+WebUI.click(findTestObject('Page_Profile - GiPM/button_Delete Account'))
 
-WebUI.setEncryptedText(findTestObject('Profile/Page_Profile - GiPM/input_New Password'), 'dXxk+BXaN7HQCjo0oAFPiQ==')
+WebUI.setEncryptedText(findTestObject('Page_Profile - GiPM/input_Password'), 'z/uldadSn79nKKsjFnA9rg==')
 
-WebUI.setEncryptedText(findTestObject('Profile/Page_Profile - GiPM/input_Confirm Password'), 'z/uldadSn79nKKsjFnA9rg==')
-
-WebUI.click(findTestObject('Profile/Page_Profile - GiPM/button_Save'))
-
-WebUI.verifyTextPresent('The password field confirmation does not match.', false)
+WebUI.click(findTestObject('Page_Profile - GiPM/button_Delete Account_1'))
 
