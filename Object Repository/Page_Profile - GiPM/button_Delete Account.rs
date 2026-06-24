@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Profile</name>
+   <name>button_Delete Account</name>
    <tag></tag>
-   <elementGuidId>2436dccb-21e2-4798-98a4-3af6dbf17e26</elementGuidId>
+   <elementGuidId>d6def90a-4b9a-4139-81b8-0bde2306b1e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;https\:\/\/gipm\.destroidmous\.my\.id\/profile&quot;]</value>
+         <value>.undefined</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'https://gipm.destroidmous.my.id/profile']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' undefined ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,63 +22,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>16c0c550-5a2f-4ef6-9d9a-982bb1f4a5cf</webElementGuid>
+      <value>button</value>
+      <webElementGuid>c5f6b9f4-811b-4f09-b255-b0903ddda4fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>block w-full px-4 py-2 text-start text-sm leading-5 text-gray-900 transition duration-300 ease-in-out hover:bg-gray-100 focus:bg-gray-100 focus:outline-none </value>
-      <webElementGuid>d4a04010-4d76-407c-aba9-9e9b37e58bdb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>https://gipm.destroidmous.my.id/profile</value>
-      <webElementGuid>54564868-689a-40d7-af81-4f8b8c8f6dca</webElementGuid>
+      <value>inline-flex items-center rounded-md border border-transparent bg-red-600 px-4 py-2 text-xs font-semibold uppercase tracking-widest text-white transition duration-150 ease-in-out hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 active:bg-red-700 undefined </value>
+      <webElementGuid>f2c05257-e99c-4d4b-9106-5237d4e2b4c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Profile</value>
-      <webElementGuid>ce796bec-f6b6-47ea-86e8-00ad9a3cf281</webElementGuid>
+      <value>Delete Account</value>
+      <webElementGuid>996348ae-70d0-4488-983d-dcb0bb326d2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a89218fc5466fb71568b8f3e5fdd3123</value>
-      <webElementGuid>634eb56e-8e41-4a1d-8dfe-e7b271b9aa27</webElementGuid>
+      <value>md5.v1-00d37e4cea1395778ce6eb80ca2a7a65</value>
+      <webElementGuid>5862f901-f401-496c-ab33-9e08afcc210c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'https://gipm.destroidmous.my.id/profile']</value>
-      <webElementGuid>032dd46c-9d81-4f9b-ba36-40d71e8a6a4a</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' undefined ')]</value>
+      <webElementGuid>04eaacc1-0304-4297-ad6f-d2be67d8e0c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'https://gipm.destroidmous.my.id/profile']</value>
-      <webElementGuid>cfac4c83-06a8-4ea0-85bd-2f33fe089aff</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' undefined ')]</value>
+      <webElementGuid>9b61359e-5321-4932-b2f3-c2d5c00fc109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://gipm.destroidmous.my.id/profile' and (text() = 'Profile' or . = 'Profile')]</value>
-      <webElementGuid>d6c5712d-f60a-4013-9337-3ae0655ea23a</webElementGuid>
+      <value>//button[(text() = 'Delete Account' or . = 'Delete Account')]</value>
+      <webElementGuid>564bc150-0a28-474b-8d25-5cfc3ab7e009</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

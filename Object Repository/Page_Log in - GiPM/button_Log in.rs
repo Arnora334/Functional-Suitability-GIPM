@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0041b2ac-eae1-4ec7-adb9-e7cb7d3f6113</webElementGuid>
+      <webElementGuid>149d059a-0bed-4003-9249-ee4d050685f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6583de06-9f69-4684-a7e5-a1d92f45f24e</webElementGuid>
+      <webElementGuid>3cd93c3d-e59b-4131-92ec-31e00d64dec0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center px-4 py-2 text-md sm:text-lg font-medium rounded-lg gap-2 cursor-pointer transition-colors duration-300 disabled:cursor-not-allowed text-white bg-[#db2727] hover:bg-[#991b1b] disabled:bg-[#fee2e2] </value>
-      <webElementGuid>d463f09f-28bf-4191-b516-56be8a789304</webElementGuid>
+      <webElementGuid>62560bbd-dc2b-4b55-9eb2-6e2fdd40a6b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>90df6fab-a3bd-4875-85bf-8a6c38a86e9e</webElementGuid>
+      <webElementGuid>231726d0-6ed3-4a98-ab4f-2f3709359b37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-95f7db9a973e01d131fdfc03b2c21900</value>
-      <webElementGuid>a567b6f5-4d3c-4e53-a02f-4779355b854c</webElementGuid>
+      <webElementGuid>a72f2c17-a969-4e05-934a-13f9feec86c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
-      <webElementGuid>95b020d1-b403-497a-ad39-2ae006840bf4</webElementGuid>
+      <webElementGuid>9d6cb1c3-f11e-434f-bd57-3af0f0afe341</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-lg ') and contains(concat(' ', normalize-space(@class), ' '), ' sm:text-lg ')]</value>
-      <webElementGuid>89e5ff3b-091d-4665-b8b2-b5e6ca37a6b1</webElementGuid>
+      <webElementGuid>7e7709a1-4d59-4e2d-bad6-2fd8f4c1f1ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>873f53a7-34ea-444e-95b0-f44e8029e9c6</webElementGuid>
+      <webElementGuid>c26ac25a-8ef3-45df-aa88-a49859164839</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
