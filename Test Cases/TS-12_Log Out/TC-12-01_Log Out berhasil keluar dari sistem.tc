@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-12-01_Log Out berhasil keluar dari sistem</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e13c22e7-3880-4461-b61f-f10a2e6258e8</testCaseGuid>
+</TestCaseEntity>
