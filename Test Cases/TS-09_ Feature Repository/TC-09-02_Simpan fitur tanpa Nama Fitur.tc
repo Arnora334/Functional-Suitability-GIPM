@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-09-02_Simpan fitur tanpa Nama Fitur</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4365b80a-8364-49fd-b667-7b9382201875</testCaseGuid>
+</TestCaseEntity>

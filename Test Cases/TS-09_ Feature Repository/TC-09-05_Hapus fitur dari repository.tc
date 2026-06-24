@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-09-05_Hapus fitur dari repository</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1e650ec-b794-4df2-9f44-86c652dcb8cc</testCaseGuid>
+</TestCaseEntity>
