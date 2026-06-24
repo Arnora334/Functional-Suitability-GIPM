@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d06d7373-09ab-429d-83cc-306c3277c787</webElementGuid>
+      <webElementGuid>f64173ff-957f-44b9-a188-7e4edfecc72f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Feature Repository</value>
-      <webElementGuid>6a0f5d80-fdc6-4a75-88bb-ee859d6d80dc</webElementGuid>
+      <webElementGuid>99b6285b-0a62-4f68-8e5b-8166ab1622ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-f3d869514c7904f504e7145297bb86d7</value>
-      <webElementGuid>92cc9934-3f67-486e-8c27-1cd20121bcfe</webElementGuid>
+      <webElementGuid>a5c9a3f2-1017-4748-b12b-17cf89f2a1a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/features']//span</value>
-      <webElementGuid>6741a7f3-dc4f-485d-b7b3-4cebc90eebf6</webElementGuid>
+      <webElementGuid>dd1d0fa6-89c7-456e-ad30-f3aa1d699157</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = 'https://gipm.destroidmous.my.id/features']//span</value>
-      <webElementGuid>fe288b44-cad2-4709-97c0-ab9cb1060982</webElementGuid>
+      <webElementGuid>b1f544c0-286d-49b9-8163-734cfc9b82c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,6 +63,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Feature Repository' or . = 'Feature Repository')]</value>
-      <webElementGuid>64f6c451-c3f3-475d-8218-3c194faeb8d5</webElementGuid>
+      <webElementGuid>cc0a72a5-c9e4-4206-8cb9-6a5629c69dae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

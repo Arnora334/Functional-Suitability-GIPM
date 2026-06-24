@@ -6,12 +6,12 @@
    <elementGuidId>7575b468-078d-4054-8de6-79015380ef3b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 2)]</value>
+         <key>CSS</key>
+         <value>tr:nth-child(24) .text-white:nth-child(2)</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>.text-white:nth-child(2)</value>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 24)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 2)]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3fbfdfd3-01e4-47ea-b7b4-4f104319740b</webElementGuid>
+      <webElementGuid>4ae7913c-42d9-45a4-8ef9-7a26d339d763</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-red-600 text-white px-3 py-1 rounded</value>
-      <webElementGuid>f5d28d77-38c3-421c-8ba7-fa12a42c69d9</webElementGuid>
+      <webElementGuid>178f5fad-57ce-4d98-aa13-2a662d1e598c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,31 +49,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Hapus</value>
-      <webElementGuid>e01b8e02-882f-4633-bed9-c6b267b66baa</webElementGuid>
+      <webElementGuid>07f01535-2ae2-4141-8af5-d4075fae2877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9c405c2b74824dd519adb6b635290509</value>
-      <webElementGuid>14b1ba9e-59a1-4b31-9987-0e63605380e4</webElementGuid>
+      <value>md5.v1-96e3fb95f1cda2a30234eafe82c6704b</value>
+      <webElementGuid>9a24e801-498a-4f79-8b47-f75e9782045c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 2)]</value>
-      <webElementGuid>04496a1a-6faa-40f1-aeff-63b661128ae6</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 24)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 2)]</value>
+      <webElementGuid>8eba0b24-811c-48d1-95b9-25b13aa2f73c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 2)]</value>
-      <webElementGuid>37e71c79-bd52-44d5-8596-6f58f4196778</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 24)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-white ') and (position() = 2)]</value>
+      <webElementGuid>98258643-c665-48d7-a81a-ba4a81e5ccd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Hapus' or . = 'Hapus')]</value>
-      <webElementGuid>6f8f2656-db23-4712-8dc9-c970811774aa</webElementGuid>
+      <webElementGuid>3dbf321a-da26-49d2-9db7-6f7b372a872d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

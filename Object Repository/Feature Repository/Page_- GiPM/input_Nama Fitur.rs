@@ -7,11 +7,15 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@placeholder = 'Nama Fitur']</value>
+         <value>//*[@value = 'Manajemen Tiket Proyek']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[placeholder=&quot;Nama\ Fitur&quot;]</value>
+         <value>[value=&quot;Manajemen\ Tiket\ Proyek&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'Nama Fitur']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d1bbcec0-9415-43ae-a290-d2615bac7558</webElementGuid>
+      <webElementGuid>b5b38536-f6dd-40a2-92d6-f33642fbd8e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>faab53e4-09ab-40d1-a4c0-8b7354feeb8d</webElementGuid>
+      <webElementGuid>98dcf05d-e5fc-463a-ae13-0749aaf81c64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nama Fitur</value>
-      <webElementGuid>68c990f2-4f23-46a4-ad76-3fc9676c12be</webElementGuid>
+      <webElementGuid>a9017011-102d-40a4-a38a-73b575d132dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,31 +51,39 @@
       <name>class</name>
       <type>Main</type>
       <value>border p-2 rounded col-span-2</value>
-      <webElementGuid>998cf0dc-3951-4363-8c8d-e607877d599a</webElementGuid>
+      <webElementGuid>3221bbc5-0d97-43b0-b135-db7315ff1776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Manajemen Tiket Proyek</value>
+      <webElementGuid>0d4b4f97-abef-4f23-b8ed-d6ee765811bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9d31223d5ac37692f1f5b7a104184f22</value>
-      <webElementGuid>563bf339-ad0b-4432-99e2-4673bfc70ec5</webElementGuid>
+      <value>md5.v1-bdd9c4681938e3ff72baf5d8277c0eb2</value>
+      <webElementGuid>b2ecfb94-8459-4b54-bd8a-42d301e2d310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@placeholder = 'Nama Fitur']</value>
-      <webElementGuid>08c8461d-d551-40c4-897d-5ba0d5b7ab6b</webElementGuid>
+      <value>//*[@value = 'Manajemen Tiket Proyek']</value>
+      <webElementGuid>f45328cc-af60-4f66-905b-f8e88b39682c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@placeholder = 'Nama Fitur']</value>
-      <webElementGuid>3ee61758-b66a-4a4a-a479-235c15c78039</webElementGuid>
+      <value>//*[@value = 'Manajemen Tiket Proyek']</value>
+      <webElementGuid>9984b8aa-c0f8-4da5-966b-ce47d4dbd4ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +91,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Nama Fitur']</value>
-      <webElementGuid>27f46570-4658-4354-9dc8-7b6880486493</webElementGuid>
+      <webElementGuid>cce08939-fb52-4777-abb0-80f1919a6486</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
