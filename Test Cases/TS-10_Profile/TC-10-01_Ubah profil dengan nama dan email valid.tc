@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-10-01_Ubah profil dengan nama dan email valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81e60b3c-4691-4d9c-9638-886156f77e3c</testCaseGuid>
+</TestCaseEntity>

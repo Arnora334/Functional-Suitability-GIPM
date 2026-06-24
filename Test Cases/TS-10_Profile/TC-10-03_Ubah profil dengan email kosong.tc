@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-10-03_Ubah profil dengan email kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>744ddf30-3e21-4a4e-a62b-6d4354f46a6b</testCaseGuid>
+</TestCaseEntity>

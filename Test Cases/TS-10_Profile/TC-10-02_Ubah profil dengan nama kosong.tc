@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-10-02_Ubah profil dengan nama kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8818ff2-503e-4004-8934-2eacd59ed478</testCaseGuid>
+</TestCaseEntity>

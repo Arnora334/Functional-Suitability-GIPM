@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-10-04_Ubah profil dengan format email tidak valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3452ca44-2f63-4108-a16a-8bfcd96a0c9a</testCaseGuid>
+</TestCaseEntity>
